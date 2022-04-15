@@ -1,55 +1,61 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: CUI Tianxiang (崔天祥)
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Research Assistant in Applied Psychology
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: The Chinese University of Hong Kong, Shenzhen
+    url: 'https://www.cuhk.edu.cn/en'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include body image, eating behaviors and quantitative methods in psychology.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Body Image
+  - Eating Behaviors
+  - Quantitative Methods in Psychology
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Psychology
+      institution: University of Macau
+      year: 2026 (anticipated)
+    - course: MSc in Applied Psychology
+      institution: The Chinese University of Hong Kong, Shenzhen
+      year: 2021
+    - course: BEcon in Economics
+      institution: Huaqiao University
+      year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: cv
+    icon_pack: ai
+    link: https://curly-muskmelon-d3b.notion.site/CUI-Tianxiang-CV-dd0c4a9545814cbca3f5e77483221cdf
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://cuitx.netlify.app/#contact
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Tianxiang-C
+  - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=NvqtlScAAAAJ&hl=en
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0003-2826-1109
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Tianxiang-Cui-3
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -60,14 +66,12 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Research Assistants
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+CUI Tianxiang is a research assistant in applied psychology at The Chinese University of Hong Kong, Shenzhen, working under Prof. HE Jinbo’s supervision. In August 2022, he will begin his PhD studies in Department of Psychology at University of Macau. You may learn more about him by visiting his [homepage](https://cuitx.netlify.app/).
