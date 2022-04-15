@@ -1,11 +1,19 @@
 ---
 title: 'Using machine learning to explore core risk factors associated with the risk of eating disorders among non-clinical young women in China: A decision-tree classification analysis.'
 authors:
-  - admin
-  - Robert Ford
+  - REN Yaoxiang
+  - LU Chaoyi
+  - YANG Han
+  - Wesley R. BARNHART
+  - ZHOU Jianjun
+  - HE Jinbo
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 'Corresponding author'
 date: '2022-02-10T00:00:00Z'
 doi: '10.1186/s40337-022-00545-6'
 
