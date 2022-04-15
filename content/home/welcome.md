@@ -19,4 +19,4 @@ design:
 
 <br>
 
-This lab aims to clarify the complex relationships between eating behaviors, body image, and media in a Chinese context. Both undergraduate and graduate students who are interested in health psychology are strongly encouraged to join the team. Please contact PI (Prof.HE) via [e-mail](mailto:hejinbo@cuhk.edu.cn) if you are interested!
+This lab aims to clarify the complex relationships between eating behaviors, body image, and media in a Chinese context. Both undergraduate and graduate students who are interested in health psychology are strongly encouraged to join the team. Please contact Prof. HE Jinbo via [e-mail](mailto:hejinbo@cuhk.edu.cn) if you are interested!
