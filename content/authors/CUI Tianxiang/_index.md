@@ -1,6 +1,6 @@
 ---
 # Display name
-title: CUI Tianxiang 
+title: CUI Tianxiang (崔天祥)
 
 # Username (this should match the folder name)
 authors:
@@ -79,4 +79,4 @@ user_groups:
   - Alumni
 ---
 
-CUI Tianxiang (崔天祥) is a research assistant in applied psychology at The Chinese University of Hong Kong, Shenzhen, working under Prof. HE Jinbo’s supervision. In August 2022, he will begin his PhD studies in Department of Psychology at University of Macau. You may learn more about him by visiting his [homepage](https://cuitx.netlify.app/).
+CUI Tianxiang is a research assistant in applied psychology at The Chinese University of Hong Kong, Shenzhen, working under Prof. HE Jinbo’s supervision. In August 2022, he will begin his PhD studies in Department of Psychology at University of Macau. You may learn more about him by visiting his [homepage](https://cuitx.netlify.app/).
