@@ -1,6 +1,6 @@
 ---
 # Display name
-title: CUI Shuqi (崔舒淇)
+title: CUI Shuqi 
 
 # Username (this should match the folder name)
 authors:
@@ -70,5 +70,5 @@ highlight_name: true
 user_groups:
   - Graduate Students
 ---
-CUI Shuqi......
+CUI Shuqi (崔舒淇)......
 
