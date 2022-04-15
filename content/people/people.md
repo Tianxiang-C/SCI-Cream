@@ -18,8 +18,8 @@ content:
   user_groups:
     - Principal Investigator
     - Research Assistants
-    - Grad Students
-    - Undergrad Students
+    - Graduate Students
+    - Undergraduate Students
     - Alumni
 design:
   show_interests: false
