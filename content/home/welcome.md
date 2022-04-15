@@ -7,9 +7,8 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  Wowchemy  
-  Research Group
-hero_media: welcome.jpg
+  SCI-Cream Lab
+hero_media: laughing.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -20,4 +19,4 @@ design:
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+This lab aims to clarify the complex relationships between eating behaviors, body image, and media in a Chinese context. Both undergraduate and graduate students who are interested in health psychology are strongly encouraged to join the team. Please contact PI (Prof.HE) via [e-mail](mailto:hejinbo@cuhk.edu.cn) if you are interested!
