@@ -1,5 +1,5 @@
 ---
-title: Prof. HE Jinbo was Invited to be an Editorial Board Member of Body Image, a Leading SSCI Journal in Clinical Psychology
+title: Prof. HE Jinbo was Invited to Be an Editorial Board Member of Body Image, a Leading SSCI Journal in Clinical Psychology
 date: 2022-02-15
 image:
   focal_point: 'top'
