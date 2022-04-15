@@ -1,6 +1,6 @@
 ---
 # Display name
-title: REN Yaoxiang (任遥翔)
+title: REN Yaoxiang 
 
 # Username (this should match the folder name)
 authors:
@@ -70,5 +70,5 @@ highlight_name: true
 user_groups:
   - Graduate Students
 ---
-REN Yaoxiang......
+REN Yaoxiang (任遥翔)......
 
