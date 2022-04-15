@@ -31,7 +31,7 @@ education:
       year: 2027 (anticipated)
     - course: MSc in Applied Psychology
       institution: The Chinese University of Hong Kong, Shenzhen
-      year: 2019
+      year: 2021
     - course: BSc in Psychology
       institution: Franklin & Marshall College
       year: 2017
