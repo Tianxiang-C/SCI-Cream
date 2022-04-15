@@ -30,7 +30,7 @@ content:
         position: center
         color: '#555'
         brightness: 0.7
-        media: food.jpg
+        media: pizza.jpg
     - title: A Fun and Productive Lab
       content: 'Located in The Chinese University of Hong Kong, Shenzhen'
       align: right
