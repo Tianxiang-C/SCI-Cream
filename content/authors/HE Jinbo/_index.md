@@ -71,6 +71,7 @@ Homepage: https://myweb.cuhk.edu.cn/hejinbo###
 
 Dr. HE Jinbo (何金波) is an assistant professor in applied psychology in the School of Humanities and Social Science, the Chinese University of Hong Kong, Shenzhen. Dr. HE got his Ph.D. degree in 2018. Dr. He's research interests include the mental health of children and adolescents, obesity, eating behaviors, eating disorders, body image, and various advanced quantitative research methods (e.g., structural equation modeling, latent growth curve modeling, finite mixture modeling, meta-analysis).
 
+
 Dr. HE has two research lines: 
 
 1) Quantitative research methods (e.g., structural equation modeling, finite mixture modeling, psychometrics), and my most recent interests are about the model selection issues in finite mixture modeling (e.g., latent class models, growth mixture models, and factor mixture models); 
