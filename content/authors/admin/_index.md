@@ -6,7 +6,7 @@ title: HE Jinbo
 superuser: false
 
 # Role/position
-role: Professor of Applied Psychology
+role: Assistant Professor of Applied Psychology
 
 # Organizations/Affiliations
 organizations:
