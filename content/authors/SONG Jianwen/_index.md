@@ -1,6 +1,6 @@
 ---
 # Display name
-title: SONG Jianwen 
+title: SONG Jianwen (宋牮闻)
 
 # Username (this should match the folder name)
 authors:
@@ -71,6 +71,6 @@ user_groups:
   - Research Assistants
   - Alumni
 ---
-SONG Jianwen (宋牮闻)......
+SONG Jianwen......
 
 
