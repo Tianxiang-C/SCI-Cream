@@ -31,15 +31,19 @@ publication: '*Journal of Eating Disorders, 10*(1)'
 publication_short: 'J Eat Disord'
 
 abstract: "Background
+
 Many previous studies have investigated the risk factors associated with eating disorders (EDs) from the perspective of emotion regulation (ER). However, limited research has investigated interactions between co-existing risk factors for EDs, especially in China where research in EDs is underrepresented.
 
 Methods
+
 This study examined core risk factors related to maladaptive eating behaviors and ER, and how their interactions affect the detection of EDs. Using machine learning, a decision tree model was constructed on a data set of 830 non-clinical Chinese young women with an average age of 18.91 years (SD = 0.95). The total data set was split into training and testing data sets with a ratio of 70 to 30%.
 
 Results
+
 Body image inflexibility was identified as the major classifier for women at high risk of EDs. Furthermore, interactions between body image inflexibility, psychological distress, and body dissatisfaction were important in detecting women at high risk of EDs. Overall, the model classifying women at high-risk for EDs had a sensitivity of 0.88 and a specificity of 0.85 when applied to the testing data set.
 
 Conclusions
+
 Body image inflexibility, psychological distress, and body dissatisfaction were identified as the major classifiers for young women in China at high risk of EDs. Researchers and practitioners may consider these findings in the screening, prevention, and treatment of EDs among young women in China.
 "
 
