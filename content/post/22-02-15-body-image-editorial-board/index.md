@@ -1,0 +1,14 @@
+---
+title: Prof. HE Jinbo was Invited to be an Editorial Board Member of Body Image, a Leading SSCI Journal in Clinical Psychology
+date: 2022-02-15
+image:
+  focal_point: 'top'
+---
+
+# Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.
+
+<!--more-->
+
+[Body Image](https://www.sciencedirect.com/journal/body-image) is an international, peer-reviewed journal that publishes high-quality, scientific articles on body image and human physical appearance. 
+
+So far, Prof. HE is the only Chinese Editorial Board Member of Body Image (click [here](https://www.sciencedirect.com/journal/body-image/about/editorial-board) for details).
