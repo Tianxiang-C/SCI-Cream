@@ -50,7 +50,7 @@ social:
  #   link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?hl=zh-CN&user=16qDmvsAAAAJ&view_op=list_works
+    link: https://scholar.google.com/citations?user=16qDmvsAAAAJ&hl=en
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Jinbo-He
