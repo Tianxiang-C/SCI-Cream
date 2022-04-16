@@ -1,5 +1,4 @@
 ---
-​---
 # Display name
 title: REN Yaoxiang
 
@@ -71,6 +70,8 @@ highlight_name: true
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Graduate Students
-​---
-REN Yaoxiang (任遥翔) is a graduate student in applied psychology under Prof. HE Jinbo's supervision.
+
 ---
+
+REN Yaoxiang (任遥翔) is a graduate student in applied psychology under Prof. HE Jinbo's supervision.
+
