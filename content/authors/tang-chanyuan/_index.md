@@ -1,6 +1,6 @@
 ---
 # Display name
-title: TANG Chanyuan, Shannon
+title: TANG Chanyuan
 
 # Username (this should match the folder name)
 authors:
@@ -72,4 +72,4 @@ user_groups:
   - Research Assistants
   - Alumni
 ---
-TANG Chanyuan (唐婵媛) is a research assistant in applied psychology at The Chinese University of Hong Kong, Shenzhen, working under Prof. HE Jinbo’s supervision.
+Shannon (唐婵媛) is a research assistant in applied psychology at The Chinese University of Hong Kong, Shenzhen, working under Prof. HE Jinbo’s supervision.
