@@ -71,5 +71,5 @@ highlight_name: true
 user_groups:
   - Alumni
 ---
-Anne (叶晓妮) was a graduate advisee in applied psychology under Prof. HE Jinbo's supervision.
+YE Xiaoni (Anne YE; 叶晓妮) was a graduate advisee in applied psychology under Prof. HE Jinbo's supervision.
 
