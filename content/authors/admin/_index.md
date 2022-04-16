@@ -1,6 +1,6 @@
 ---
 # Display name
-title: HE Jinbo (何金波)
+title: HE Jinbo
 
 # Is this the primary user of the site?
 superuser: true
