@@ -27,8 +27,8 @@ publishDate: '2022-02-10T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Journal of Eating Disorders, 10*(1)'
-publication_short: 'J Eat Disord'
+publication: '*Journal of Eating Disorders, 10*(1), 19'
+publication_short: '*J Eat Disord, 10*(1), 19'
 
 abstract: "**Background**:
 
