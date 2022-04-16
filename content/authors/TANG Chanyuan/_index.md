@@ -1,6 +1,6 @@
 ---
 # Display name
-title: TANG Chanyuan (唐婵媛)
+title: TANG Chanyuan
 
 # Username (this should match the folder name)
 authors:
@@ -71,5 +71,5 @@ user_groups:
   - Research Assistants
   - Alumni
 ---
-TANG Chanyuan......
+TANG Chanyuan (唐婵媛)......
 
