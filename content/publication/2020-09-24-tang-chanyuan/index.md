@@ -26,7 +26,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: '*Eating and Weight Disorders-Studies on Anorexia, Bulimia and Obesity, 26*(6), 1863-1870'
-publication_short: 'Eat Weight Disord'
+publication_short: '*Eat Weight Disord, 26*(6), 1863-1870'
 
 abstract: "**Objective**: Eating disorders and obesity are commonly recognized as key public health concerns worldwide. Although rates of obesity and disordered eating have traditionally been lower in China than Western countries, these rates are on the rise. As such, interest is growing in identifying mechanisms that may address these conditions. While associations between body weight and dissatisfaction are well established, burgeoning research aims to examine how these factors are related to dietary restraint and body image inflexibility. This study aimed to explore the possible mediation effect of body dissatisfaction and body image inflexibility between body weight (body mass index) and dietary restraint. Furthermore, we explored how these relationships differed across men and women.
 
