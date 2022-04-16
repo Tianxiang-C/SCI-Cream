@@ -1,6 +1,6 @@
 ---
 # Display name
-title: TANG Chanyuan
+title: TANG Chanyuan, Shannon
 
 # Username (this should match the folder name)
 authors:
