@@ -69,7 +69,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Students
+  - Current Graduate Advisees
 ---
 CUI Shuqi (崔舒淇) is a graduate student in applied psychology under Prof. HE Jinbo’s supervision.
 
