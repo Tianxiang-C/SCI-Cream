@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Current Undergraduate Advisee in Applied Psychology
+role: Current Undergraduate Advisee in Marketing and Communication
 
 # Organizations/Affiliations
 organizations:
@@ -30,7 +30,7 @@ education:
   #  - course: PhD in Quantitative Methods in Educational Psychology
   #    institution: Baylor University
   #    year: 2027 (anticipated)
-     - course: BSc in Applied Psychology
+     - course: BMGT in Marketing and Communication
        institution: The Chinese University of Hong Kong, Shenzhen
        year: 2023 (anticipated)
   #  - course: BEcon in Economics
@@ -71,5 +71,5 @@ highlight_name: true
 user_groups:
   - Current Undergraduate Advisees
 ---
-WANG Qingyang (汪晴漾) is an undergraduate advisee in applied psychology under Prof. HE Jinbo's supervision.
+WANG Qingyang (汪晴漾) is an undergraduate advisee in marketing and communication under Prof. HE Jinbo's supervision.
 
