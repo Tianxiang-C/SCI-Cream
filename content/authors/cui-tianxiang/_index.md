@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Assistant in Applied Psychology
+role: Research Assistant in Applied Psychology, Former Graduate Advisee
 
 # Organizations/Affiliations
 organizations:
