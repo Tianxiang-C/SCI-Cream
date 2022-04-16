@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Publications (with advisees in the lab authored)
 
 # Listing view
 view: citation
