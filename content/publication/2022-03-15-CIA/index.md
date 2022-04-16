@@ -4,7 +4,7 @@ authors:
   - admin
   - Anna BRYTEK-MATERA
   - Marita COOPER
-  - cui-shuqi
+  - CUI Shuqi
   - CHEN Gui
 author_notes:
   - 'Corresponding author'
