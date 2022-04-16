@@ -48,7 +48,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.mdpi.com/2072-6643/13/8/2571/pdf
+url_pdf: uploads/202107-music-food-meta.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
