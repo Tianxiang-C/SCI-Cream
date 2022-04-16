@@ -1,5 +1,4 @@
 ---
-​---
 # Display name
 title: CHEN Yanting
 
@@ -70,6 +69,6 @@ highlight_name: true
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Alumni
-​---
-CHEN Yanting (陈彦廷) was a graduate advisee in applied psychology under Prof. HE Jinbo's supervision.
 ---
+CHEN Yanting (陈彦廷) was a graduate advisee in applied psychology under Prof. HE Jinbo's supervision.
+
