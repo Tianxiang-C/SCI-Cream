@@ -18,10 +18,11 @@ organizations:
     url: 'https://www.cuhk.edu.cn/en'
     
 # Short bio (displayed in user profile at end of posts)
-bio: xxx
+bio: REN Yaoxiang is a graduate student in applied psychology under Prof. HE Jinbo's supervision.
 
 interests:
-  - xxx
+  - body image
+  - eating disorders
   
 
 education:
@@ -70,5 +71,5 @@ highlight_name: true
 user_groups:
   - Graduate Students
 ---
-REN Yaoxiang (任遥翔)......
+REN Yaoxiang (任遥翔) is a graduate student in applied psychology under Prof. HE Jinbo's supervision.
 
