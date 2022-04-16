@@ -21,8 +21,9 @@ organizations:
 bio: TANG Chanyuan is a research assistant in applied psychology at The Chinese University of Hong Kong, Shenzhen, working under Prof. HE Jinbo’s supervision.
 
 interests:
-  - body image
-  - eating disorders
+  - Mental health
+  - Body image
+  - Eating disorders
   
 
 education:
@@ -72,4 +73,4 @@ user_groups:
   - Research Assistants
   - Alumni
 ---
-Shannon (唐婵媛) is a research assistant in applied psychology at The Chinese University of Hong Kong, Shenzhen, working under Prof. HE Jinbo’s supervision.
+TANG Chanyuan (Shannon TANG; 唐婵媛) is a research assistant in applied psychology at The Chinese University of Hong Kong, Shenzhen, working under Prof. HE Jinbo’s supervision.
