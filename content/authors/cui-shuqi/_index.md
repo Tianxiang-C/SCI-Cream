@@ -18,10 +18,11 @@ organizations:
     url: 'https://www.cuhk.edu.cn/en'
     
 # Short bio (displayed in user profile at end of posts)
-bio: xxx
+bio: CUI Shuqi (崔舒淇) is a graduate student in applied psychology under Prof. HE Jinbo’s supervision.
 
 interests:
-  - xxx
+  - body image
+  - eating disorders
   
 
 education:
@@ -70,6 +71,6 @@ highlight_name: true
 user_groups:
   - Graduate Students
 ---
-CUI Shuqi (崔舒淇)......
+CUI Shuqi (崔舒淇) is a graduate student in applied psychology under Prof. HE Jinbo’s supervision.
 
 
