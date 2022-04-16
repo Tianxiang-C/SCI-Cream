@@ -1,7 +1,7 @@
 ---
 
 # Display name
-title: YE Xiaoni, Anne
+title: YE Xiaoni
 
 # Username (this should match the folder name)
 authors:
@@ -71,5 +71,5 @@ highlight_name: true
 user_groups:
   - Alumni
 ---
-YE Xiaoni (叶晓妮) was a graduate advisee in applied psychology under Prof. HE Jinbo's supervision.
+Anne (叶晓妮) was a graduate advisee in applied psychology under Prof. HE Jinbo's supervision.
 
