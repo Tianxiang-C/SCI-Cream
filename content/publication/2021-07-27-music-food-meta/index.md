@@ -3,7 +3,7 @@ title: 'The Relationship between Music and Food Intake: A Systematic Review and 
 authors:
 - CUI Tianxiang
 - XI Jiaxuan 
-- TANG Chanyuan 
+- tang-chanyuan
 - SONG Jianwen 
 - admin
 - Anna BRYTEK-MATERA
