@@ -6,7 +6,7 @@ authors:
   - YANG Han
   - Wesley R. BARNHART
   - ZHOU Jianjun
-  - HE Jinbo
+  - admin
 author_notes:
   - 
   - 
