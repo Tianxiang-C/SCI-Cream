@@ -7,7 +7,7 @@ authors:
   - SONG Jianwen
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
 role: Research Assistant in Applied Psychology
@@ -18,10 +18,11 @@ organizations:
     url: 'https://www.cuhk.edu.cn/en'
     
 # Short bio (displayed in user profile at end of posts)
-bio: xxx
+bio: SONG Jianwen is a research assistant in applied psychology at The Chinese University of Hong Kong, Shenzhen, working under Prof. HE Jinbo’s supervision.
 
 interests:
-  - xxx
+  - body image
+  - eating disorders
   
 
 education:
@@ -71,6 +72,6 @@ user_groups:
   - Research Assistants
   - Alumni
 ---
-SONG Jianwen (宋牮闻)......
+SONG Jianwen (宋牮闻) is a research assistant in applied psychology at The Chinese University of Hong Kong, Shenzhen, working under Prof. HE Jinbo’s supervision.
 
 
