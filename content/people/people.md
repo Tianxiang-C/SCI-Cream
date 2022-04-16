@@ -18,8 +18,9 @@ content:
   user_groups:
     - Principal Investigator
     - Research Assistants
+    - Current Graduate Advisees
     - Graduate Students
-    - Undergraduate Students
+    - Current Undergraduate Advisees
     - Alumni
 design:
   show_interests: false
