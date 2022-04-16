@@ -1,5 +1,5 @@
 ---
-​---
+
 # Display name
 title: LIANG Yongshi
 
@@ -70,6 +70,6 @@ highlight_name: true
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Alumni
-​---
-LIANG Yongshi (梁咏诗) was a graduate advisee in applied psychology under Prof. HE Jinbo's supervision.
 ---
+LIANG Yongshi (梁咏诗) was a graduate advisee in applied psychology under Prof. HE Jinbo's supervision.
+
