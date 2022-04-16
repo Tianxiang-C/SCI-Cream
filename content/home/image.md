@@ -18,7 +18,7 @@ subtitle:
 design:
   columns: '1'
   background:
-    image: laughing.jpg
+    image: cake.jpg
     image_darken: 0
     image_parallax: false
     image_position: center
