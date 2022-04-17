@@ -21,10 +21,10 @@ organizations:
 bio: REN Yaoxiang is a graduate student in applied psychology under Prof. HE Jinbo's supervision.
 
 interests:
-  - body image
-  - eating disorders
+  - Body Image
+  - Eating Disorders
+  - Psychological Counseling
   
-
 education:
   courses:
   #  - course: PhD in Quantitative Methods in Educational Psychology
