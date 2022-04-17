@@ -35,7 +35,7 @@ education:
       year: 2022 (anticipated)
     - course: BEcon in Economics
       institution: China University of Geosciences
-      year: 20xx
+      year: 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
