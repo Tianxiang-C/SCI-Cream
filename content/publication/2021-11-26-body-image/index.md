@@ -11,7 +11,7 @@ author_notes:
   - 'Equal contribution'
   - 
   - 'Equal contribution'
-  - 'Equal contribution' 'Corresponding author'
+  - 'Equal contribution; Corresponding author'
 date: '2021-11-26T00:00:00Z'
 doi: '10.1016/j.bodyim.2021.11.006'
 
