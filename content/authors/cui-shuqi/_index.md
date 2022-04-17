@@ -21,8 +21,8 @@ organizations:
 bio: CUI Shuqi (崔舒淇) is a graduate student in applied psychology under Prof. HE Jinbo’s supervision.
 
 interests:
-  - body image
-  - eating disorders
+  - Body Image
+  - Eating Disorders
   
 
 education:
