@@ -21,8 +21,10 @@ organizations:
 bio: SONG Jianwen is a research assistant in applied psychology at The Chinese University of Hong Kong, Shenzhen, working under Prof. HE Jinbo’s supervision.
 
 interests:
-  - body image
-  - eating disorders
+  - Body Image
+  - Eating Disorders
+  - Educational Psychology
+  - Quantitative Methods
   
 
 education:
