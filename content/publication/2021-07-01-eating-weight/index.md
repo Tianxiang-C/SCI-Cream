@@ -56,7 +56,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://link.springer.com/content/pdf/10.1007/s40519-021-01265-7.pdf
+url_pdf: uploads/He2022_Article_PatternsOfPerceivedParentingSt.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
