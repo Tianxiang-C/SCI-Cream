@@ -51,7 +51,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://link.springer.com/content/pdf/10.1007/s40519-021-01340-z.pdf
+url_pdf: uploads/Tie2022_Article_BodyDissatisfactionAndNon-suic.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
