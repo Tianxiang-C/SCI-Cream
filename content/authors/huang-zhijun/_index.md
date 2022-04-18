@@ -33,9 +33,9 @@ education:
      - course: MSc in Applied Psychology
        institution: The Chinese University of Hong Kong, Shenzhen
        year: 2021
-  #  - course: BEcon in Economics
-  #    institution: China University of Geosciences
-  #    year: 20xx
+     - course: 
+       institution: Southwest University
+       year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
