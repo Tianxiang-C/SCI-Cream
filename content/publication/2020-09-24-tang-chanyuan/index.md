@@ -59,7 +59,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://link.springer.com/content/pdf/10.1007/s40519-020-01032-0.pdf
+url_pdf: uploads/Tang2021_Article_TheRelationshipBetweenBodyWeig.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
