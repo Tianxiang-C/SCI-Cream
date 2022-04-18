@@ -33,9 +33,9 @@ education:
      - course: MSc in Applied Psychology
        institution: The Chinese University of Hong Kong, Shenzhen
        year: 2022 (anticipated)
-  #   - course: BSc in Applied Psychology
-  #     institution: Beijing Sport University
-  #     year: 2020
+     - course: 
+       institution: Guangzhou University
+       year: 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
