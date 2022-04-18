@@ -35,7 +35,7 @@ education:
        year: 2022 (anticipated)
      - course: 
        institution: Lewis & Clark College
-       year: 2019
+       year: 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
