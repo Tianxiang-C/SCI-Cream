@@ -35,7 +35,7 @@ education:
        year: 2021
      - course: 
        institution: Southwest University
-       year: 2019
+       year: 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
