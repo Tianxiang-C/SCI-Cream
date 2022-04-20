@@ -5,7 +5,7 @@ image:
   focal_point: 'top'
 ---
 
-# Congratulations to Yaoxiang for publishing her first research article, where she was the first author.
+Congratulations to Yaoxiang for publishing her first research article, where she was the first author.
 
 <!--more-->
 
