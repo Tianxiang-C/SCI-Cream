@@ -17,7 +17,7 @@ author_notes:
   - 
   - 'Corresponding author'
 date: '2022-04-12T00:00:00Z'
-doi: ''
+doi: '10.1016/j.appet.2022.106061'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-04-12T00:00:00Z'
