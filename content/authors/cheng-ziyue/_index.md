@@ -72,5 +72,7 @@ highlight_name: true
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Current Graduate Advisees
+  
 ---
+
 CHENG Ziyue（程紫玥）is a graduate student in applied psychology at The Chinese University of Hong Kong, Shenzhen, studying under Prof. HE Jinbo’s supervision. In September 2022, she will work as a mental health teacher in Bashu Secondary School, Chongqing.
