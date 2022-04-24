@@ -74,4 +74,4 @@ user_groups:
   
 ---
 
-CHENG Ziyue（程紫玥）is a graduate student in applied psychology at The Chinese University of Hong Kong, Shenzhen, studying under Prof. HE Jinbo’s supervision. In September 2022, she will work as a mental health teacher in Bashu Secondary School, Chongqing.
+CHENG Ziyue (程紫玥) is a graduate student in applied psychology at The Chinese University of Hong Kong, Shenzhen, studying under Prof. HE Jinbo’s supervision. In September 2022, she will work as a mental health teacher in Bashu Secondary School, Chongqing.
