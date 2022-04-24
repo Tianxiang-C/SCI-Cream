@@ -22,7 +22,7 @@ bio: SONG Jianwen is a research assistant in applied psychology at The Chinese U
 
 interests:
   - Educational Psychology
-  - Educational assessment
+  - Educational Assessment
   - Psychometrics
   
 
