@@ -22,7 +22,9 @@ organizations:
 bio: 
 
 interests:
-
+- Intuitive Eating
+- Mental Health
+- Family Therapy
   
 
 education:
@@ -33,18 +35,18 @@ education:
      - course: MSc in Applied Psychology
        institution: The Chinese University of Hong Kong, Shenzhen
        year: 2022 (anticipated)
-     - course: 
+     - course: BSc in Psychology
        institution: Beijing Normal University
-       year: 
+       year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 # social:
-#  - icon: envelope
-#    icon_pack: fas
-#    link: 'mailto:yaoxiangren@link.cuhk.edu.cn'
+   - icon: envelope
+     icon_pack: fas
+     link: 'mailto:220032006@link.cuhk.edu.cn'
  # - icon: twitter
  #   icon_pack: fab
  #   link: https://twitter.com/GeorgeCushen
@@ -71,5 +73,4 @@ highlight_name: true
 user_groups:
   - Current Graduate Advisees
 ---
-CHENG Ziyue (程紫玥) is a graduate student in applied psychology under Prof. HE Jinbo’s supervision.
-
+CHENG Ziyue（程紫玥）is a graduate student in applied psychology at The Chinese University of Hong Kong, Shenzhen, studying under Prof. HE Jinbo’s supervision. In September 2022, she will work as a mental health teacher in Bashu Secondary School, Chongqing.
