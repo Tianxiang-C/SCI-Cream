@@ -13,7 +13,7 @@ author_notes:
   - 'The last co-author'
   - 'The last co-author; Corresponding author'
 date: '2022-04-21T00:00:00Z'
-doi: ''
+doi: '10.3390/nu14091761'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2021-04-15T00:00:00Z'
@@ -25,27 +25,28 @@ publishDate: '2021-04-15T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Nutrients*'
+publication: '*Nutrients, 14*(9), 1761'
 publication_short: ''
 
-abstract: ""
+abstract: "Body dissatisfaction and eating disorders have become major global concerns, including in Asian populations. Few studies have examined intervention effects on body dissatisfaction and disordered eating in China, especially for interventions with positive psychological perspectives (e.g., intuitive eating). In this pilot study, 66 women participated in an eight-module intuitive eating intervention delivered online (*n* = 42; mean age, 30.74 years) and face-to-face (*n* = 24; mean age, 19.46 years) for 8 weeks. Measures of body image and eating behaviors were used to assess the intervention’s feasibility, acceptability, and initial efficacy. Linear mixed models were used to analyze the data. The intervention had significant effects on both groups, promoting positive body image and intuitive eating and reducing negative body image and disordered eating behaviors. The effects of the online and face-to-face interventions did not differ significantly. Thus, whether delivered online or face-to-face, an intuitive eating intervention may effectively improve Chinese women’s body image and eating behaviors. However, the efficacy of the intuitive intervention in the Chinese context should be confirmed in future studies with designs in randomized control trials."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
 tags:
-  - body mass index
-  - body appreciation
-  - body dissatisfaction
-  - body image inflexibility
-  - older adults
+  - intuitive eating
+  - disordered eating
+  - body image
+  - feasibility study
+  - intervention
+  - Chinese women
 
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 
+url_pdf: uploads/Cheng_et_al_2022_nutrients.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
