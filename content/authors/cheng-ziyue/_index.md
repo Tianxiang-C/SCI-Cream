@@ -1,5 +1,4 @@
 ---
-
 # Display name
 title: CHENG Ziyue
 
@@ -19,12 +18,12 @@ organizations:
     url: 'https://www.cuhk.edu.cn/en'
     
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: My research interests include intuitive eating, mental health and family therapy.
 
 interests:
-- Intuitive Eating
-- Mental Health
-- Family Therapy
+  - Intuitive Eating
+  - Mental Health
+  - Family Therapy
   
 
 education:
