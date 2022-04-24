@@ -18,7 +18,6 @@ bio: My research interests include the mental health of children and adolescents
 
 interests:
   - Health Psychology
-  - Computational Linguistics
   - Quantitative Research Methodology
 
 education:
