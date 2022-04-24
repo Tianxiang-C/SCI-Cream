@@ -11,12 +11,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Former Graduate Advisee
+role: Acting Head of Career Planning and Development Office (CPDO), Former Graduate Advisee
 
 # Organizations/Affiliations
 organizations:
-  - name: The Chinese University of Hong Kong, Shenzhen
-    url: 'https://www.cuhk.edu.cn/en'
+  - name: CPDO at The Chinese University of Hong Kong, Shenzhen
+    url: 'https://career.cuhk.edu.cn/en'
     
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -71,5 +71,5 @@ highlight_name: true
 user_groups:
   - Alumni
 ---
-YE Xiaoni (Anne YE; 叶晓妮) was a graduate advisee in applied psychology under Prof. HE Jinbo's supervision.
+YE Xiaoni (Anne YE; 叶晓妮) was a graduate advisee in applied psychology under Prof. HE Jinbo's supervision. She is the Acting Head of CPDO at The Chinese University of Hong Kong, Shenzhen.
 
