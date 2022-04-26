@@ -51,7 +51,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: uploads/Tie2022_Article_BodyDissatisfactionAndNon-suic.pdf
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''
