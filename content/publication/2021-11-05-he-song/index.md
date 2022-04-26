@@ -45,7 +45,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 
+url_pdf: uploads/2021-11-he-song.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
