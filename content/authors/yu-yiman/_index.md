@@ -22,9 +22,11 @@ organizations:
 bio: 
 
 interests:
+  - Family Systems
+  - Mental Health of Children
+  - Counselling Studies
 
   
-
 education:
   courses:
   #  - course: PhD in Quantitative Methods in Educational Psychology
@@ -41,10 +43,10 @@ education:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-#  - icon: envelope
-#    icon_pack: fas
-#    link: 'mailto:yaoxiangren@link.cuhk.edu.cn'
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:119030114@link.cuhk.edu.cn'
  # - icon: twitter
  #   icon_pack: fab
  #   link: https://twitter.com/GeorgeCushen
@@ -72,4 +74,8 @@ user_groups:
   - Current Undergraduate Advisees
 ---
 YU Yiman (余奕满) is an undergraduate advisee in applied psychology under Prof. HE Jinbo's supervision.
+
+Her current programs:
+1.	Exploring retrospective childhood parenting styles and parent-child relationship quality as Correlates of Chinese adults’ current psychological distress: Influence of family-of-origin?
+2.	Pregnant women’s body dissatisfaction and disordered eating.
 
