@@ -53,7 +53,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: uploads/2020IJED.pdf
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''
