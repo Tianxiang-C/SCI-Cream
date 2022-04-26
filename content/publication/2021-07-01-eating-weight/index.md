@@ -56,7 +56,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: uploads/He2022_Article_PatternsOfPerceivedParentingSt.pdf
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''
