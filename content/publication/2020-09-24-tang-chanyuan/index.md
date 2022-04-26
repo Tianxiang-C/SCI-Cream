@@ -59,7 +59,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: uploads/Tang2021_Article_TheRelationshipBetweenBodyWeig.pdf
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''
