@@ -19,10 +19,13 @@ organizations:
     url: 'https://www.cuhk.edu.cn/en'
     
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: I have great interest in the cognition and development of body image, and also have caring field about children's development and mental health status.
 
 interests:
-
+- Cognition of Body Image
+- Development of Body Image
+- Children's Development 
+- Children's Mental Health Status
   
 
 education:
@@ -30,9 +33,9 @@ education:
   #  - course: PhD in Quantitative Methods in Educational Psychology
   #    institution: Baylor University
   #    year: 2027 (anticipated)
-     - course: 
+     - course: BSc in Applied Psychology
        institution: The Chinese University of Hong Kong, Shenzhen
-       year: 
+       year: 2024 (anticipated)
   #  - course: BEcon in Economics
   #    institution: China University of Geosciences
   #    year: 20xx
@@ -41,10 +44,10 @@ education:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-#  - icon: envelope
-#    icon_pack: fas
-#    link: 'mailto:yaoxiangren@link.cuhk.edu.cn'
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:haokeli@link.cuhk.edu.cn'
  # - icon: twitter
  #   icon_pack: fab
  #   link: https://twitter.com/GeorgeCushen
@@ -71,5 +74,8 @@ highlight_name: true
 user_groups:
   - Current Undergraduate Advisees
 ---
-LI Haoke (李昊柯) is an undergraduate advisee in applied psychology under Prof. HE Jinbo's supervision.
+LI Haoke (李昊柯) is an undergraduate student majoring in applied psychology, under the education and development stream. He is currently working on a project about intuitive eating and BMI, regarding how mediators work and doing verification as well, somehow based on body image.
+
+He has great interest in the cognition and development of body image, as well as children's development and mental health status.
+
 
