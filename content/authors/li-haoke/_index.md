@@ -25,7 +25,7 @@ interests:
 - Cognition of Body Image
 - Development of Body Image
 - Children's Development 
-- Children's Mental Health Status
+- Mental Health Status
   
 
 education:
