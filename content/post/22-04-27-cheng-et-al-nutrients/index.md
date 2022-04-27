@@ -5,7 +5,7 @@ image:
   focal_point: 'top'
 ---
 
-# Congratulations to the advisees for their first publication.
+Congratulations to the advisees for their first publication.
 
 <!--more-->
 
