@@ -19,7 +19,7 @@ organizations:
     url: 'https://www.cuhk.edu.cn/en'
     
 # Short bio (displayed in user profile at end of posts)
-bio: I have great interest in the cognition and development of body image, and also have caring field about children's development and mental health status.
+bio: I have great interest in the cognition and development of body image, as well as children's development and mental health status.
 
 interests:
 - Cognition of Body Image
