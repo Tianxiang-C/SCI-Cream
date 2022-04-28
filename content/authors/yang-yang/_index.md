@@ -22,9 +22,9 @@ organizations:
 bio: 
 
 interests:
+- Body Image
 
   
-
 education:
   courses:
   #  - course: PhD in Quantitative Methods in Educational Psychology
@@ -33,18 +33,18 @@ education:
      - course: MSc in Applied Psychology
        institution: The Chinese University of Hong Kong, Shenzhen
        year: 2022 (anticipated)
-     - course: 
+     - course: BEcon in International Economics and Trades & BSc in Applied Psychology
        institution: Tianjin Normal University
-       year: 
+       year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-#  - icon: envelope
-#    icon_pack: fas
-#    link: 'mailto:yaoxiangren@link.cuhk.edu.cn'
+social:
+  - icon: envelope
+  - icon_pack: fas
+    link: 'mailto:220032029@link.cuhk.edu.cn'
  # - icon: twitter
  #   icon_pack: fab
  #   link: https://twitter.com/GeorgeCushen
