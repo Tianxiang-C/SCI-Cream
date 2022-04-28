@@ -19,10 +19,11 @@ organizations:
     url: 'https://www.cuhk.edu.cn/en'
     
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: I am interested in the mental health and body image.
 
 interests:
-
+  - Mental Health
+  - Body Image
   
 
 education:
@@ -30,9 +31,9 @@ education:
   #  - course: PhD in Quantitative Methods in Educational Psychology
   #    institution: Baylor University
   #    year: 2027 (anticipated)
-     - course: 
+     - course: BSc in Applied Psychology
        institution: The Chinese University of Hong Kong, Shenzhen
-       year: 
+       year: 2024 (anticipated)
   #  - course: BEcon in Economics
   #    institution: China University of Geosciences
   #    year: 20xx
@@ -41,10 +42,10 @@ education:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-#  - icon: envelope
-#    icon_pack: fas
-#    link: 'mailto:yaoxiangren@link.cuhk.edu.cn'
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:120030111@link.cuhk.edu.cn'
  # - icon: twitter
  #   icon_pack: fab
  #   link: https://twitter.com/GeorgeCushen
@@ -71,5 +72,6 @@ highlight_name: true
 user_groups:
   - Current Undergraduate Advisees
 ---
-WANG Siqi (王思祺) is an undergraduate advisee in applied psychology under Prof. HE Jinbo's supervision.
-
+WANG Siqi (王思祺) is an undergraduate student majoring in Industrial/ Organizational Psychology. She is currently studying on 
+1)	the project about moderators influencing the relationship between intuitive eating level and BMI. 
+2)	The Chinese translation of Fear of Food Questionnaire.
