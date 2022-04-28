@@ -74,4 +74,4 @@ user_groups:
 ---
 WANG Siqi (王思祺) is an undergraduate student majoring in Industrial/ Organizational Psychology. She is currently studying on 
 1)	the project about moderators influencing the relationship between intuitive eating level and BMI. 
-2)	The Chinese translation of Fear of Food Questionnaire.
+2)	the Chinese translation of Fear of Food Questionnaire.
