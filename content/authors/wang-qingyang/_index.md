@@ -75,6 +75,7 @@ user_groups:
   - Current Undergraduate Advisees
 ---
 WANG Qingyang (汪晴漾) is an undergraduate advisee in marketing and communication under Prof. HE Jinbo's supervision.
+
 His current working project:
 1. Body image and eating behaviors in Chinese pregnant women.
 
