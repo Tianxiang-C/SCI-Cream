@@ -22,10 +22,10 @@ organizations:
 bio: My research interests include Consumer behavior, Eating consumption and health decision-making, Sustainable behavior and Consumer well-being.
 
 interests:
-- Consumer Behavior
-- Eating Consumption and Health Decision-making
-- Sustainable Behavior
-- Consumer Well-being
+  - Consumer Behavior
+  - Eating Consumption and Health Decision-making
+  - Sustainable Behavior
+  - Consumer Well-being
   
 
 education:
@@ -44,7 +44,7 @@ education:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
- social:
+social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:qingyangwang@link.cuhk.edu.cn'
