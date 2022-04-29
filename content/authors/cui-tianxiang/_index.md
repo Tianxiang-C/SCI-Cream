@@ -24,6 +24,7 @@ interests:
   - Body Image
   - Eating Behaviors
   - Quantitative Methods in Psychology
+  - Music Psychology
 
 education:
   courses:
