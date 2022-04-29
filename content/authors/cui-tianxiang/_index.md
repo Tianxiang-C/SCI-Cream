@@ -18,7 +18,7 @@ organizations:
     url: 'https://www.cuhk.edu.cn/en'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include body image, eating behaviors and quantitative methods in psychology.
+bio: My research interests include body image, eating behaviors, quantitative methods in psychology, and music psychology.
 
 interests:
   - Body Image
