@@ -19,10 +19,13 @@ organizations:
     url: 'https://www.cuhk.edu.cn/en'
     
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: My research interests include Consumer behavior, Eating consumption and health decision-making, Sustainable behavior and Consumer well-being.
 
 interests:
-
+- Consumer Behavior
+- Eating Consumption and Health Decision-making
+- Sustainable Behavior
+- Consumer Well-being
   
 
 education:
@@ -30,7 +33,7 @@ education:
   #  - course: PhD in Quantitative Methods in Educational Psychology
   #    institution: Baylor University
   #    year: 2027 (anticipated)
-     - course: BMGT in Marketing and Communication
+     - course: BBA in Marketing and Communication
        institution: The Chinese University of Hong Kong, Shenzhen
        year: 2023 (anticipated)
   #  - course: BEcon in Economics
@@ -41,16 +44,16 @@ education:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-#  - icon: envelope
-#    icon_pack: fas
-#    link: 'mailto:yaoxiangren@link.cuhk.edu.cn'
+ social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:qingyangwang@link.cuhk.edu.cn'
  # - icon: twitter
  #   icon_pack: fab
  #   link: https://twitter.com/GeorgeCushen
- # - icon: google-scholar
- #   icon_pack: ai
- #   link: https://scholar.google.com/citations?user=ceCuvLoAAAAJ&hl=en
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=kWWKhAMAAAAJ&hl=en
  # - icon: researchgate
  #   icon_pack: ai
  #   link: https://www.researchgate.net/profile/Jianwen_Song5
@@ -72,4 +75,6 @@ user_groups:
   - Current Undergraduate Advisees
 ---
 WANG Qingyang (汪晴漾) is an undergraduate advisee in marketing and communication under Prof. HE Jinbo's supervision.
+His current working project:
+1. Body image and eating behaviors in Chinese pregnant women.
 
