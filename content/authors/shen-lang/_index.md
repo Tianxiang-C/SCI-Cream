@@ -22,7 +22,8 @@ organizations:
 bio: 
 
 interests:
-
+  - Eating Behaviors in Social Media
+  - Eating Disorders
   
 
 education:
