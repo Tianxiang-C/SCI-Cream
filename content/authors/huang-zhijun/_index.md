@@ -32,10 +32,10 @@ education:
   #    year: 2027 (anticipated)
      - course: MSc in Applied Psychology
        institution: The Chinese University of Hong Kong, Shenzhen
-       year: 2021
-     - course: 
+       year: 2019-2021
+     - course: BSc in Applied Psychology
        institution: Southwest University
-       year: 
+       year: 2015-2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
