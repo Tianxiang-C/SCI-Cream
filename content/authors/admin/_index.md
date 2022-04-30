@@ -24,10 +24,10 @@ education:
   courses:
     - course: PhD in Education
       institution: University of Macau
-      year: 2018
+      year: 2015-2018
     - course: MSc in Psychology
       institution: Central South University
-      year: 2015
+      year: 2012-2015
    # - course: BSc in Artificial Intelligence
    #  institution: Massachusetts Institute of Technology
    # year: 2008
