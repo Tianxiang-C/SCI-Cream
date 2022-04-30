@@ -32,10 +32,10 @@ education:
   #    year: 2027 (anticipated)
      - course: MSc in Applied Psychology
        institution: The Chinese University of Hong Kong, Shenzhen
-       year: 2023 (anticipated)
-     - course: 
+       year: 2021-2023 (anticipated)
+     - course: BSc in Applied Psychology
        institution: Qingdao University
-       year: 
+       year: 2017-2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
