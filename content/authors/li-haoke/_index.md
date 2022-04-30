@@ -35,7 +35,7 @@ education:
   #    year: 2027 (anticipated)
      - course: BSc in Applied Psychology
        institution: The Chinese University of Hong Kong, Shenzhen
-       year: 2024 (anticipated)
+       year: 2020-2024 (anticipated)
   #  - course: BEcon in Economics
   #    institution: China University of Geosciences
   #    year: 20xx
