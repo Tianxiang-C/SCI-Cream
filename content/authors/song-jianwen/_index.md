@@ -30,13 +30,13 @@ education:
   courses:
     - course: PhD in Quantitative Methods in Educational Psychology
       institution: Baylor University
-      year: 2027 (anticipated)
+      year: 2022-2027 (anticipated)
     - course: MSc in Applied Psychology
       institution: The Chinese University of Hong Kong, Shenzhen
-      year: 2021
+      year: 2019-2021
     - course: BA in Psychology
       institution: Franklin & Marshall College
-      year: 2017
+      year: 2013-2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
