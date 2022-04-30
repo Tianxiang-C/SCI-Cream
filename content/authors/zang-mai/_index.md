@@ -22,9 +22,9 @@ organizations:
 bio: 
 
 interests:
-
+  - Q-methodology
+  - Gender Difference on Body Image
   
-
 education:
   courses:
   #  - course: PhD in Quantitative Methods in Educational Psychology
@@ -41,10 +41,10 @@ education:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-#  - icon: envelope
-#    icon_pack: fas
-#    link: 'mailto:yaoxiangren@link.cuhk.edu.cn'
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:119030115@link.cuhk.edu.cn'
  # - icon: twitter
  #   icon_pack: fab
  #   link: https://twitter.com/GeorgeCushen
@@ -71,5 +71,4 @@ highlight_name: true
 user_groups:
   - Current Undergraduate Advisees
 ---
-ZANG Mai (臧劢) is an undergraduate advisee in applied psychology under Prof. HE Jinbo's supervision.
-
+Hello, everyone. My name is ZANG, Mai (臧劢). I major in Applied Psychology (Stream: Education and Development) I am working on Q-methodology-based research on ideal Chinese male body image and ideal Chinese female body image. It’s interesting to explore different opinions from opposite genders and the reasons for these differences. I am very willing to dig into gender issues deeper and search for my interest in other projects!
