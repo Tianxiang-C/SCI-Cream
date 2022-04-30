@@ -30,13 +30,13 @@ education:
   courses:
     - course: PhD in Psychology
       institution: University of Macau
-      year: 2026 (anticipated)
+      year: 2022-2026 (anticipated)
     - course: MSc in Applied Psychology
       institution: The Chinese University of Hong Kong, Shenzhen
-      year: 2021
+      year: 2019-2021
     - course: BEcon in Economics
       institution: Huaqiao University
-      year: 2019
+      year: 2015-2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
