@@ -33,9 +33,12 @@ education:
      - course: MSc in Applied Psychology
        institution: The Chinese University of Hong Kong, Shenzhen
        year: 2022 (anticipated)
-     - course: 
+     - course: BSc in Applied Psychology
+       institution: The Australian National University
+       year: 2018-2020
+     - course: BSc in Applied Psychology
        institution: Southwest University
-       year: 
+       year: 2016-2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
