@@ -71,4 +71,4 @@ highlight_name: true
 user_groups:
   - Current Undergraduate Advisees
 ---
-Hello, everyone. My name is ZANG, Mai (臧劢). I major in Applied Psychology (Stream: Education and Development) I am working on Q-methodology-based research on ideal Chinese male body image and ideal Chinese female body image. It’s interesting to explore different opinions from opposite genders and the reasons for these differences. I am very willing to dig into gender issues deeper and search for my interest in other projects!
+Hello, everyone. My name is ZANG, Mai (臧劢). I major in Applied Psychology (Stream: Education and Development). I am working on Q-methodology-based research on ideal Chinese male body image and ideal Chinese female body image. It’s interesting to explore different opinions from opposite genders and the reasons for these differences. I am very willing to dig into gender issues deeper and search for my interest in other projects!
