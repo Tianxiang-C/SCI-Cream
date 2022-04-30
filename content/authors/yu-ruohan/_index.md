@@ -22,7 +22,8 @@ organizations:
 bio: 
 
 interests:
-
+  - Developmental Psychology
+  - Health Psychology (Mental Health)
   
 
 education:
@@ -30,9 +31,9 @@ education:
   #  - course: PhD in Quantitative Methods in Educational Psychology
   #    institution: Baylor University
   #    year: 2027 (anticipated)
-     - course: 
+     - course: BSc in Applied Psychology
        institution: The Chinese University of Hong Kong, Shenzhen
-       year: 
+       year: 2024 (anticipated)
   #  - course: BEcon in Economics
   #    institution: China University of Geosciences
   #    year: 20xx
@@ -41,10 +42,10 @@ education:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-#  - icon: envelope
-#    icon_pack: fas
-#    link: 'mailto:yaoxiangren@link.cuhk.edu.cn'
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:ruohanyu@link.cuhk.edu.cn'
  # - icon: twitter
  #   icon_pack: fab
  #   link: https://twitter.com/GeorgeCushen
@@ -73,3 +74,6 @@ user_groups:
 ---
 YU Ruohan (俞若涵) is an undergraduate advisee in applied psychology under Prof. HE Jinbo's supervision.
 
+Gradually exploring in the field of scientific research ;)
+
+Doing research on moderators between intuitive eating and BMI.
