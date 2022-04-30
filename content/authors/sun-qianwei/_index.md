@@ -22,7 +22,9 @@ organizations:
 bio: 
 
 interests:
-
+  - Body Image 
+  - Thinspiration
+  - Fitspiration
   
 
 education:
