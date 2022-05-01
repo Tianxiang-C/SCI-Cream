@@ -22,9 +22,12 @@ organizations:
 bio: 
 
 interests:
+  - Health Psychology
+  - Psychology Research Method 
+	- Problem-based Learning
+  - Music Psychology
 
-  
-
+ 
 education:
   courses:
   #  - course: PhD in Quantitative Methods in Educational Psychology
@@ -41,10 +44,10 @@ education:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-#  - icon: envelope
-#    icon_pack: fas
-#    link: 'mailto:yaoxiangren@link.cuhk.edu.cn'
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:yutianliu@link.cuhk.edu.cn'
  # - icon: twitter
  #   icon_pack: fab
  #   link: https://twitter.com/GeorgeCushen
@@ -73,3 +76,6 @@ user_groups:
 ---
 LIU Yutian (刘雨田) is an undergraduate advisee in applied psychology under Prof. HE Jinbo's supervision.
 
+Her current programs:
+1.	Retrospective childhood parenting styles, parental feeding practices, and current maladaptive and adaptive eating behaviors among Chinese adults
+2.	Pregnant women’s body dissatisfaction and disordered eating.
