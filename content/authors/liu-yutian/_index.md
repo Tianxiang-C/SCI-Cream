@@ -24,7 +24,7 @@ bio:
 interests:
   - Health Psychology
   - Psychology Research Method 
-	- Problem-based Learning
+  - Problem-based Learning
   - Music Psychology
 
  
