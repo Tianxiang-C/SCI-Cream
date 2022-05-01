@@ -22,7 +22,8 @@ organizations:
 bio: 
 
 interests:
-
+  - Body Image
+  - Mental Health
   
 
 education:
@@ -32,19 +33,22 @@ education:
   #    year: 2027 (anticipated)
      - course: MSc in Applied Psychology
        institution: The Chinese University of Hong Kong, Shenzhen
-       year: 2022 (anticipated)
-     - course: 
+       year: 2020-2022 (anticipated)
+     - course: BA in Applied Psychology
+       institution: Wesleyan College
+       year: 2017-2018
+     - course: BSc in Applied Psychology
        institution: Guangzhou University
-       year: 
+       year: 2016-2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-#  - icon: envelope
-#    icon_pack: fas
-#    link: 'mailto:yaoxiangren@link.cuhk.edu.cn'
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:dinanhong@link.cuhk.edu.cn'
  # - icon: twitter
  #   icon_pack: fab
  #   link: https://twitter.com/GeorgeCushen
