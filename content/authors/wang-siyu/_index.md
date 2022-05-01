@@ -22,6 +22,10 @@ organizations:
 bio: 
 
 interests:
+  - Body Image
+  - Mental Health
+  - Social Media
+  - Educational Psychology
 
   
 
@@ -30,9 +34,9 @@ education:
   #  - course: PhD in Quantitative Methods in Educational Psychology
   #    institution: Baylor University
   #    year: 2027 (anticipated)
-     - course: 
+     - course: BSc in Applied Psychology
        institution: The Chinese University of Hong Kong, Shenzhen
-       year: 
+       year: 2019-2023 (anticipated)
   #  - course: BEcon in Economics
   #    institution: China University of Geosciences
   #    year: 20xx
@@ -41,10 +45,10 @@ education:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-#  - icon: envelope
-#    icon_pack: fas
-#    link: 'mailto:yaoxiangren@link.cuhk.edu.cn'
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:siyuwang@link.cuhk.edu.cn'
  # - icon: twitter
  #   icon_pack: fab
  #   link: https://twitter.com/GeorgeCushen
@@ -71,5 +75,4 @@ highlight_name: true
 user_groups:
   - Current Undergraduate Advisees
 ---
-WANG Siyu (汪思渝) is an undergraduate advisee in applied psychology under Prof. HE Jinbo's supervision.
-
+WANG Siyu (汪思渝) is undergraduate research assistant in applied psychology, under the supervision of Prof. HE Jinbo, at the Chinese University of Hong Kong, Shenzhen. She majors in applied psychology, education and development stream. Her previous working projects are the translation and validation of the Chinese version of ASI-R and the Chinese version of the gratitude model of body appreciation.
