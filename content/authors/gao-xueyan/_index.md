@@ -32,6 +32,9 @@ education:
   #  - course: PhD in Quantitative Methods in Educational Psychology
   #    institution: Baylor University
   #    year: 2027 (anticipated)
+     - course: International Asian Study Program
+       institution: The Chinese University of Hong Kong
+       year: 2021-2022 spring
      - course: BSc in Applied Psychology
        institution: The Chinese University of Hong Kong, Shenzhen
        year: 2019-2023 (anticipated)
