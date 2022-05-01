@@ -77,5 +77,5 @@ user_groups:
 LIU Yutian (刘雨田) is an undergraduate advisee in applied psychology under Prof. HE Jinbo's supervision.
 
 Her current programs:
-1.	Retrospective childhood parenting styles, parental feeding practices, and current maladaptive and adaptive eating behaviors among Chinese adults
+1.	Retrospective childhood parenting styles, parental feeding practices, and current maladaptive and adaptive eating behaviors among Chinese adults.
 2.	Pregnant women’s body dissatisfaction and disordered eating.
