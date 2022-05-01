@@ -33,7 +33,10 @@ education:
      - course: MSc in Applied Psychology
        institution: The Chinese University of Hong Kong, Shenzhen
        year: 2020-2022 (anticipated)
-     - course: BEcon in International Economics and Trades & BSc in Applied Psychology
+     - course: BSc in Applied Psychology
+       institution: Tianjin Normal University
+       year: 2015-2019
+     - course: BEcon in International Economics and Trades
        institution: Tianjin Normal University
        year: 2015-2019
 
