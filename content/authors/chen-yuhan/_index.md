@@ -70,6 +70,7 @@ highlight_name: true
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Current Undergraduate Advisees
+  - Undergraduate Students
 ---
 CHEN Yuhan (陈宇晗) is an undergraduate advisee in applied psychology under Prof. HE Jinbo's supervision.
 
