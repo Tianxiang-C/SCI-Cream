@@ -28,7 +28,7 @@ module:
 ## ADVANCED
 ############################
 
-enableGitInfo: false
+enableGitInfo: true
 enableAuthorDate: false
 summaryLength: 30
 paginate: 10
