@@ -6,7 +6,7 @@ title: HONG Dinan
 # Username (this should match the folder name)
 authors:
   - hong-dinan
-
+weight: 80
 # Is this the primary user of the site?
 superuser: false
 
