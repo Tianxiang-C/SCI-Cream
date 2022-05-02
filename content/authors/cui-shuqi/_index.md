@@ -5,7 +5,7 @@ title: CUI Shuqi
 # Username (this should match the folder name)
 authors:
   - cui-shuqi
-weight: 10
+weight: 30
 # Is this the primary user of the site?
 superuser: false
 
