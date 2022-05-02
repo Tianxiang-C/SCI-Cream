@@ -6,7 +6,7 @@ title: LI Yexing
 # Username (this should match the folder name)
 authors:
   - li-yexing
-
+weight: 120
 # Is this the primary user of the site?
 superuser: false
 
