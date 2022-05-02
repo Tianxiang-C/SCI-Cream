@@ -22,6 +22,10 @@ organizations:
 bio: 
 
 interests:
+  - Body Image
+  - Meta-analysis
+  - Mental Health
+  - Quantitative Research Methodology
 
   
 
@@ -30,9 +34,9 @@ education:
   #  - course: PhD in Quantitative Methods in Educational Psychology
   #    institution: Baylor University
   #    year: 2027 (anticipated)
-     - course: 
+     - course: BSc in Applied Psychology
        institution: The Chinese University of Hong Kong, Shenzhen
-       year: 
+       year: 2021-2025 (Anticipated)
   #  - course: BEcon in Economics
   #    institution: China University of Geosciences
   #    year: 20xx
@@ -71,5 +75,6 @@ highlight_name: true
 user_groups:
   - Current Undergraduate Advisees
 ---
-LUO Wenjing (罗文静) is an undergraduate advisee in applied psychology under Prof. HE Jinbo's supervision.
+LUO Wenjing (罗雯静) is an undergraduate advisee in applied psychology under Prof. HE Jinbo's supervision. She is currently studying the mechanism of Emotional Intelligence affecting eating behaviors.
+
 
