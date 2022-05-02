@@ -6,7 +6,7 @@ title: HUANG Zhijun
 # Username (this should match the folder name)
 authors:
   - huang-zhijun
-
+weight: 90
 # Is this the primary user of the site?
 superuser: false
 
