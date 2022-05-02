@@ -6,7 +6,7 @@ title: SUN Qianwei
 # Username (this should match the folder name)
 authors:
   - sun-qianwei
-
+weight: 230
 # Is this the primary user of the site?
 superuser: false
 
