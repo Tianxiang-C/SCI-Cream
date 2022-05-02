@@ -6,7 +6,7 @@ title: LI Haoke
 # Username (this should match the folder name)
 authors:
   - li-haoke
-
+weight: 110
 # Is this the primary user of the site?
 superuser: false
 
