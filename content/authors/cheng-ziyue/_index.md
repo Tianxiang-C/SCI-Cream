@@ -5,7 +5,7 @@ title: CHENG Ziyue
 # Username (this should match the folder name)
 authors:
   - cheng-ziyue
-weight: 1
+weight: 20
 # Is this the primary user of the site?
 superuser: false
 
