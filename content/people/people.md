@@ -20,6 +20,7 @@ content:
     - Research Assistants
     - Current Graduate Advisees
     - Graduate Students
+    - Undergraduate Students
     - Current Undergraduate Advisees
     - Alumni
 design:
