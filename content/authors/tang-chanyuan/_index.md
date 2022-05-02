@@ -5,7 +5,7 @@ title: TANG Chanyuan
 # Username (this should match the folder name)
 authors:
   - tang-chanyuan
-
+weight: 240
 # Is this the primary user of the site?
 superuser: false
 
