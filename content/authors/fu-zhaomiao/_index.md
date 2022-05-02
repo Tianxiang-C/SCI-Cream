@@ -5,7 +5,7 @@ title: FU Zhaomiao
 # Username (this should match the folder name)
 authors:
   - fu-zhaomiao
-
+weight: 50
 # Is this the primary user of the site?
 superuser: false
 
