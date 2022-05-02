@@ -6,7 +6,7 @@ title: LIN Yitong
 # Username (this should match the folder name)
 authors:
   - lin-yitong
-weight: 140
+weight: 150
 # Is this the primary user of the site?
 superuser: false
 
