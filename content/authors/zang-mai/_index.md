@@ -6,7 +6,7 @@ title: ZANG Mai
 # Username (this should match the folder name)
 authors:
   - zang-mai
-
+weight: 370
 # Is this the primary user of the site?
 superuser: false
 
