@@ -5,7 +5,7 @@ title: CUI Tianxiang
 # Username (this should match the folder name)
 authors:
   - cui-tianxiang
-
+weight: 40
 # Is this the primary user of the site?
 superuser: false
 
