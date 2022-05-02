@@ -22,9 +22,10 @@ organizations:
 bio: 
 
 interests:
+  - Health Psychology (Body Image, Eating Disorders, Counselling)
+  - Social Media Influence
 
   
-
 education:
   courses:
   #  - course: PhD in Quantitative Methods in Educational Psychology
@@ -41,10 +42,10 @@ education:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-#  - icon: envelope
-#    icon_pack: fas
-#    link: 'mailto:yaoxiangren@link.cuhk.edu.cn'
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:yitonglin1@link.cuhk.edu.cn'
  # - icon: twitter
  #   icon_pack: fab
  #   link: https://twitter.com/GeorgeCushen
@@ -71,5 +72,9 @@ highlight_name: true
 user_groups:
   - Current Undergraduate Advisees
 ---
-LIN Yitong (林依桐) is an undergraduate advisee in applied psychology under Prof. HE Jinbo's supervision.
+My name is LIN Yitong (林依桐), currently a junior student in The Chinese University of Hongkong, Shenzhen (CUHKSZ). I have 3-years’ experience of working as a research assistant in Eating Behaviors and Body Image laboratory (SCI-Cream Lab). 
+
+Programs:
+1.	Exploring the links from celebrity worship to body dissatisfaction and eating disturbances among Chinese young men and women.
+2.	Exploring the gratitude model of body appreciation among Chinese man and women.
 
