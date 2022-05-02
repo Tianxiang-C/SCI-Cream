@@ -6,7 +6,7 @@ title: WANG Zixin
 # Username (this should match the folder name)
 authors:
   - wang-zixin
-
+weight: 280
 # Is this the primary user of the site?
 superuser: false
 
