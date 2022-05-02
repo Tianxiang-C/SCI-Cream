@@ -6,7 +6,7 @@ title: LI Yuhang
 # Username (this should match the folder name)
 authors:
   - li-yuhang
-
+weight: 130
 # Is this the primary user of the site?
 superuser: false
 
