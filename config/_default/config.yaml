@@ -28,8 +28,8 @@ module:
 ## ADVANCED
 ############################
 
-enableGitInfo: true
-enableAuthorDate: false
+enableGitInfo: false
+enableAuthorDate: true
 summaryLength: 30
 paginate: 10
 enableEmoji: true
