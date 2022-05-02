@@ -6,7 +6,7 @@ title: LU Chen
 # Username (this should match the folder name)
 authors:
   - lu-chen
-
+weight: 170
 # Is this the primary user of the site?
 superuser: false
 
