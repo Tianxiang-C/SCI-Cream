@@ -29,6 +29,7 @@ module:
 ############################
 
 enableGitInfo: false
+enableAuthorDate: false
 summaryLength: 30
 paginate: 10
 enableEmoji: true
