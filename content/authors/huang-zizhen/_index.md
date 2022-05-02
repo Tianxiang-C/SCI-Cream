@@ -22,8 +22,11 @@ organizations:
 bio: 
 
 interests:
+  - Body Image
+  - Eating Behaviors
+  - Celebrity Worship
+  - Adult Study
 
-  
 
 education:
   courses:
@@ -32,7 +35,7 @@ education:
   #    year: 2027 (anticipated)
      - course: BSc in Applied Psychology
        institution: The Chinese University of Hong Kong, Shenzhen
-       year: 2023 (anticipated)
+       year: 2019-2024 (anticipated)
   #  - course: BEcon in Economics
   #    institution: China University of Geosciences
   #    year: 20xx
@@ -41,10 +44,10 @@ education:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-#  - icon: envelope
-#    icon_pack: fas
-#    link: 'mailto:yaoxiangren@link.cuhk.edu.cn'
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:zizhenhuang@link.cuhk.edu.cn'
  # - icon: twitter
  #   icon_pack: fab
  #   link: https://twitter.com/GeorgeCushen
@@ -71,5 +74,10 @@ highlight_name: true
 user_groups:
   - Current Undergraduate Advisees
 ---
-HUANG Zizhen (黄子真) is an undergraduate advisee in applied psychology under Prof. HE Jinbo's supervision.
+HUANG Zizhen (黄子真) is an undergraduate advisee in applied psychology under Prof. HE Jinbo's supervision. She majors in industrial/ organizational psychology.
+
+Her current projects: 
+1. Exploring the links from celebrity worship to body dissatisfaction and eating disturbances among Chinese young men and women.
+2. Exploration of the gratitude model of body appreciation among Chinese man and women.
+
 
