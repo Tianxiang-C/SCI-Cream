@@ -5,7 +5,7 @@ title: CHEN Yanting
 # Username (this should match the folder name)
 authors:
   - chen-yanting
-
+weight: 1
 # Is this the primary user of the site?
 superuser: false
 
