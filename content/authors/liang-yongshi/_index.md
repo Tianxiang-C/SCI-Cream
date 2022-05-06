@@ -11,7 +11,7 @@ weight: 140
 superuser: false
 
 # Role/position
-role: Former Graduate Advisee
+role:
 
 # Organizations/Affiliations
 organizations:
