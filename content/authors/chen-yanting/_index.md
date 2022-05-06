@@ -10,7 +10,7 @@ weight: 1
 superuser: false
 
 # Role/position
-role: University Faculty, Former Graduate Advisee
+role: University Faculty
 
 # Organizations/Affiliations
 organizations:
