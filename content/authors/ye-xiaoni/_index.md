@@ -11,7 +11,7 @@ weight: 340
 superuser: false
 
 # Role/position
-role: Acting Head of Career Planning and Development Office (CPDO), Former Graduate Advisee
+role: Acting Head of Career Planning and Development Office (CPDO)
 
 # Organizations/Affiliations
 organizations:
