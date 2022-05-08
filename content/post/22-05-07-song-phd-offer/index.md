@@ -9,7 +9,7 @@ image:
 
 <!--more-->
 
-宋大哥的感言：
+[宋大哥](https://sci-cream.netlify.app/author/song-jianwen/)的感言：
 
 >“噫！好了！我中了！”——吴敬梓《范进中举》
 
@@ -34,5 +34,3 @@ image:
 >“长风破浪会有时，直挂云帆济沧海。”——李白 《行路难》
 
 最后的最后，送一首我最喜欢的诗人李白的诗句与诸君共勉。希望大家的未来一切顺利，谢谢~
-
-Song's Homepage: https://sci-cream.netlify.app/author/song-jianwen/
