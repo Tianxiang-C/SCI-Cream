@@ -5,7 +5,7 @@ image:
   focal_point: 'top'
 ---
 
-
+恭喜三位本科生发表他们的第一篇论文
 
 <!--more-->
 
