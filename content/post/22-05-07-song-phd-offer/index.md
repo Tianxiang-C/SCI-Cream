@@ -34,3 +34,5 @@ image:
 >“长风破浪会有时，直挂云帆济沧海。”——李白 《行路难》
 
 最后的最后，送一首我最喜欢的诗人李白的诗句与诸君共勉。希望大家的未来一切顺利，谢谢~
+
+[公众号推文链接](https://mp.weixin.qq.com/s?__biz=MzkwMTI2NTk5NA==&mid=2247483902&idx=1&sn=fa2b226e81ce9ba83b7e14e75b50589b&chksm=c0b62edbf7c1a7cd937ae07b97752b50a4e97a5f2cc890ff72c6c7477ec592c9a2cdde3385bf&scene=132#wechat_redirect)
