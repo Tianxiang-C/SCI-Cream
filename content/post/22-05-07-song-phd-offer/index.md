@@ -1,6 +1,6 @@
 ---
 title: "恭喜SCI-Cream实验室宋牮闻获得全奖博士offer"
-date: 2022-05-04
+date: 2022-05-07
 image:
   focal_point: 'top'
 ---
