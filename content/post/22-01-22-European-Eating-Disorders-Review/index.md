@@ -26,4 +26,4 @@ Conclusions
 
 This bibliometric analysis presents the most complete up-to-date overview on published research on EDs. While there is an increasing trend for EDs research, the available research evidence is generally from Western countries; thus, it is suggested that cooperation on EDs research should be strengthened between Western countries and other countries in the future.
 
-公众号推文链接：https://mp.weixin.qq.com/s/ruHYcj4Rem4J_px9Sv-6Kw
+[公众号推文链接](https://mp.weixin.qq.com/s/ruHYcj4Rem4J_px9Sv-6Kw)
