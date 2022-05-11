@@ -4,11 +4,10 @@ linkTitle: Regulations
 summary: The regulations of our lab.
 date: '2022-05-11'
 type: book
+toc: false
 ---
 
 {{< figure src="icon.png" >}}
-
-{{< toc hide_on="xl" >}}
 
 SCI-CREAM (Scientific and Creative Research on Eating, Appetite and Media)是香港中文大学（深圳）人文社科学院应用心理学专业何金波教授建立的饮食与媒体研究实验室。实验室主要研究饮食与体重相关问题（如进食障碍、身体不满意和肥胖）及量化研究方法（如机器学习、结构方程模型、元分析等）。同时，实验室致力于探索饮食与体重相关问题的成因、健康影响及干预策略。
  
