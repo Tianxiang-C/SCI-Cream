@@ -25,6 +25,6 @@ main:
     weight: 70 
     parent: Information 
   - name: Information
-    url: information
-    weight: 55 
+    url: "information/"
+    weight: 60
 
