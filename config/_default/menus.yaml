@@ -23,5 +23,5 @@ main:
   - name: Tutorial
     url: '/information/tutorial/' 
     weight: 70 
-    parent: information 
+    parent: Information 
 
