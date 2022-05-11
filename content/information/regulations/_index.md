@@ -1,6 +1,6 @@
 ---
 title: SCI-CREAM实验室章程及相关信息汇总
-linkTitle:Regulations
+linkTitle:
 summary: The regulations of our lab.
 date: '2022-05-11'
 type: book
