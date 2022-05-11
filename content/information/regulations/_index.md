@@ -54,7 +54,7 @@ SCI-CREAM (Scientific and Creative Research on Eating, Appetite and Media)是香
 
   - 如果有个人信息内容更新，请及时将相关信息发送给崔天祥，更新实验室主页个人简介信息。个人主页信息包括但不限于个人照片、个人简历、个人简介（英文，包括正在进行的项目等）、感兴趣的研究方向（英文）、预期毕业年份和学位（如BSc in Applied Psychology；研究生也可以写一下本科情况）、邮箱地址或其他社交媒体（主要是学术方面，如Google scholar，ResearchGate，GitHub等）。
   
-    - 注：以上信息均不要求强制提供，但建议提供（尤其是照片）。愿意提供的话可以参考一下何老师或实验室[RA的条目](https://sci-cream.netlify.app/author/cui-tianxiang/)，相对完整。
+    - 注：以上信息均不要求强制提供，但建议提供（尤其是照片）。愿意提供的话可以参考一下何老师或部分实验室成员的[条目](https://sci-cream.netlify.app/people/)，相对完整。
   
   - 欢迎对网站建设感兴趣的同学参与进来（需要有GitHub账号）并联系崔天祥（目前的网站管理员）
 
