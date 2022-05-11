@@ -48,6 +48,8 @@ SCI-CREAM (Scientific and Creative Research on Eating, Appetite and Media)是香
   
   - 如果有想参与排版的同学（会有大约一顿食堂饭钱的酬劳），欢迎联系崔舒淇。
  
+{{< figure src="qrcode.jpg" >}}
+
 5. 实验室主页：https://sci-cream.netlify.app/（负责人：崔天祥）
 
   - 如果有个人信息内容更新，请及时将相关信息发送给崔天祥，更新实验室主页个人简介信息。个人主页信息包括但不限于个人照片、个人简历、个人简介（英文，包括正在进行的项目等）、感兴趣的研究方向（英文）、预期毕业年份和学位（如BSc in Applied Psychology；研究生也可以写一下本科情况）、邮箱地址或其他社交媒体（主要是学术方面，如Google scholar，ResearchGate，GitHub等）。
