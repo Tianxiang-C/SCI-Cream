@@ -7,6 +7,5 @@ type: book
 toc: false
 ---
 
-{{% callout soon %}}
-Coming soon...
-{{% /callout %}}
+# Coming soon...
+
