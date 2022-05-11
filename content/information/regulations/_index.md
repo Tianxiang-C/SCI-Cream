@@ -35,7 +35,7 @@ SCI-CREAM (Scientific and Creative Research on Eating, Appetite and Media)是香
   - 由于实验室公共的工作并不多，基本都是在做自己组内的project，如果有不活跃或不参与实验室日常工作的同学（如问卷没录）也需要退出实验室。
 
 
-## 3. 实验室经费管理：
+## 3. 实验室经费管理
 
   - 如需要科研支出或报销发票，请联系[崔舒淇](https://sci-cream.netlify.app/author/cui-shuqi/)。
 
