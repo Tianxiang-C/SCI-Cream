@@ -7,6 +7,8 @@ weight:
 
 Using Epidata to create templates, record data, and export data.
 
+<!--more-->
+
 ## Learn
 
 <div style="position: relative; padding: 30% 45%;">
