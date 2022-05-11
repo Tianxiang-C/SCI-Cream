@@ -19,7 +19,7 @@ main:
   - name: Regulations
     url: '/information/regulations/' 
     weight: 60 
-    parent: information 
+    parent: Information 
   # - name: Tutorial
   #  url: '/information/tutorial/' 
   #  weight: 60 
