@@ -7,6 +7,8 @@ type: book
 toc: true
 ---
 
+{{< figure src="featured.jpg" >}}
+
 ## What you will learn
 
 - Using {{<hl>}}Epidata{{</hl>}} to create templates, record data, and export data.
