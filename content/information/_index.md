@@ -9,4 +9,4 @@ header:
   image: ''
 ---
 
-Explore our regulations and tutorial here.
+Explore our regulations and tutorials here.
