@@ -1,5 +1,5 @@
 ---
-title: SCI-CREAM实验室章程及相关信息汇总
+title: Tutorials
 linkTitle: Tutorials
 summary: 
 date: '2022-05-11'
