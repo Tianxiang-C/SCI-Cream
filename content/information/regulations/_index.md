@@ -64,7 +64,7 @@ SCI-CREAM (Scientific and Creative Research on Eating, Appetite and Media)是香
   
   - 欢迎对网站建设感兴趣的同学参与进来（需要有GitHub账号）并联系崔天祥（目前的网站管理员）
 
-## 6. [实验室Bilibili账号]
+## 6. 实验室Bilibili账号
 
   - url: https://space.bilibili.com/1072475470/?spm_id_from=333.999.0.0
 
