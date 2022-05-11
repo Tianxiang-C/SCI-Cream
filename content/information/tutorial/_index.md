@@ -7,4 +7,6 @@ type: book
 toc: false
 ---
 
-# Under Construction...
+{{% callout soon %}}
+Coming soon...
+{{% /callout %}}
