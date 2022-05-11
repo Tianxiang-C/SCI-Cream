@@ -40,8 +40,10 @@ SCI-CREAM (Scientific and Creative Research on Eating, Appetite and Media)是香
   - 如需要科研支出或报销发票，请联系[崔舒淇](https://sci-cream.netlify.app/author/cui-shuqi/)。
 
 
-## 4. 实验室公众号：SCI CREAM
+## 4. 实验室公众号
 
+  - 公众号名称：SCI CREAM
+  
   - 负责人：崔舒淇
 
   - 目前主要推送内容为宣传实验室发表的研究成果，后期也会进行论文专题的科普和相关领域文献汇报的推文。
