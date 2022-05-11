@@ -12,7 +12,7 @@ toc: false
 SCI-CREAM (Scientific and Creative Research on Eating, Appetite and Media)是香港中文大学（深圳）人文社科学院应用心理学专业何金波教授建立的饮食与媒体研究实验室。实验室主要研究饮食与体重相关问题（如进食障碍、身体不满意和肥胖）及量化研究方法（如机器学习、结构方程模型、元分析等）。同时，实验室致力于探索饮食与体重相关问题的成因、健康影响及干预策略。
  
 
-1. 实验室要求
+## 1. 实验室要求
 
   - 每位本科生需要在每学期录入200～400份问卷（具体对接的研究生由项目视情况而定）。
   
@@ -28,19 +28,19 @@ SCI-CREAM (Scientific and Creative Research on Eating, Appetite and Media)是香
     
   - 科研每一步的参考流程和各组出现的问题会通过教学视频的方式（匿名）上传到实验室B站账号（包括量表计分，在线调查注意事项，伦理审核等），方便以后大家教学和复盘。
 
-2. 实验室进退机制
+## 2. 实验室进退机制
 
   - 每位同学都有加入和退出实验室的权利。希望各位本科生可以不断探索自己感兴趣的方向。如果本科生在退出实验室时仍有project没有结题，何金波教授会指导至project结束，但肯定优先辅导在实验室的学生；
   
   - 由于实验室公共的工作并不多，基本都是在做自己组内的project，如果有不活跃或不参与实验室日常工作的同学（如问卷没录）也需要退出实验室。
 
 
-3. 实验室经费管理：
+## 3. 实验室经费管理：
 
   - 如需要科研支出或报销发票，请联系[崔舒淇](https://sci-cream.netlify.app/author/cui-shuqi/)。
 
 
-4. 实验室公众号：SCI CREAM（负责人：崔舒淇）
+## 4. 实验室公众号：SCI CREAM（负责人：崔舒淇）
 
   - 目前主要推送内容为宣传实验室发表的研究成果，后期也会进行论文专题的科普和相关领域文献汇报的推文。
   
@@ -50,7 +50,7 @@ SCI-CREAM (Scientific and Creative Research on Eating, Appetite and Media)是香
  
 {{< figure src="qrcode.jpg" >}}
 
-5. [实验室主页](https://sci-cream.netlify.app/)（负责人：[崔天祥](https://sci-cream.netlify.app/author/cui-tianxiang/)）
+## 5. [实验室主页](https://sci-cream.netlify.app/)（负责人：[崔天祥](https://sci-cream.netlify.app/author/cui-tianxiang/)）
 
   - 如果有个人信息内容更新，请及时将相关信息发送给崔天祥，更新实验室主页个人简介信息。个人主页信息包括但不限于个人照片、个人简历、个人简介（英文，包括正在进行的项目等）、感兴趣的研究方向（英文）、预期毕业年份和学位（如BSc in Applied Psychology；研究生也可以写一下本科情况）、邮箱地址或其他社交媒体（主要是学术方面，如Google scholar，ResearchGate，GitHub等）。
   
@@ -58,11 +58,11 @@ SCI-CREAM (Scientific and Creative Research on Eating, Appetite and Media)是香
   
   - 欢迎对网站建设感兴趣的同学参与进来（需要有GitHub账号）并联系崔天祥（目前的网站管理员）
 
-6. 实验室[Bilibili账号](https://space.bilibili.com/1072475470/?spm_id_from=333.999.0.0)（负责人：[宋牮闻](https://sci-cream.netlify.app/author/song-jianwen/)）
+## 6. 实验室[Bilibili账号](https://space.bilibili.com/1072475470/?spm_id_from=333.999.0.0)（负责人：[宋牮闻](https://sci-cream.netlify.app/author/song-jianwen/)）
 
   - 为提高科研效率，实验室研究生RA会在近期陆续上传相关视频（包括量表计分，在线调查注意事项，伦理审核等），供大家参考。视频内容和上传相关问题，请联系宋牮闻。
 
-7. 实验室伦理审核（Research Ethics）负责人：[唐婵媛](https://sci-cream.netlify.app/author/tang-chanyuan/)
+## 7. 实验室伦理审核（Research Ethics）负责人：[唐婵媛](https://sci-cream.netlify.app/author/tang-chanyuan/)
 
   - 如果有任何伦理审核相关的问题，请联系唐婵媛。
 
