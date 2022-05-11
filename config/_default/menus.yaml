@@ -16,4 +16,12 @@ main:
   - name: Publications
     url: publication
     weight: 50
+  - name: Regulations
+    url: '/information/regulations/' 
+    weight: 60 
+    parent: information 
+  # - name: Tutorial
+  #  url: '/information/tutorial/' 
+  #  weight: 60 
+  #  parent: information 
 
