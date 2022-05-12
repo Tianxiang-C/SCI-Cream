@@ -9,7 +9,7 @@ Using Epidata to create templates, record data, and export data.
 
 <!--more-->
 
-This was shared by me ([Tianxiang](https://sci-cream.netlify.app/author/cui-tianxiang/)) from Bilibili and was the video that I mainly referred to when learning Epidata. Feel free to tell me if you have better learning materials.
+This was recommended by me ([Tianxiang](https://sci-cream.netlify.app/author/cui-tianxiang/)) from Bilibili and was the video that I mainly referred to when learning Epidata. Feel free to tell me if you have better learning materials.
 
 ## Learn
 
