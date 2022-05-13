@@ -43,6 +43,11 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+  - icon: cv
+    icon_pack: ai
+    link: uploads/chanyuantang-CV.pdf
   - icon: envelope
     icon_pack: fas
     link: 'mailto:chanyuantang@link.cuhk.edu.cn'
@@ -58,11 +63,7 @@ social:
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Chanyuan-Tang
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/chanyuantang-CV.pdf
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
