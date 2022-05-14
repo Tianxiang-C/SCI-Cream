@@ -6,7 +6,7 @@ title: CHEN Yuhan
 # Username (this should match the folder name)
 authors:
   - chen-yuhan
-weight: 10
+weight: 
 # Is this the primary user of the site?
 superuser: false
 
