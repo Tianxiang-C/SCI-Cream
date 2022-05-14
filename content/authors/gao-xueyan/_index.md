@@ -6,7 +6,7 @@ title: GAO Xueyan
 # Username (this should match the folder name)
 authors:
   - gao-xueyan
-weight: 
+weight: 60
 # Is this the primary user of the site?
 superuser: false
 
