@@ -44,7 +44,10 @@ education:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-
+social:
+   - icon: envelope
+     icon_pack: fas
+     link: 'mailto:119030011@link.cuhk.edu.cn'
  # - icon: twitter
  #   icon_pack: fab
  #   link: https://twitter.com/GeorgeCushen
@@ -74,5 +77,3 @@ user_groups:
 ---
 
 FU Zhaomiao (付兆淼) is an undergraduate advisee in I/O Applied Psychology under Prof. HE Jinbo's supervision. He was born and raised in Qingdao, Shandong Province, and now studies and lives in Shenzhen. He is working on the research of exploring the Male/Female Body image preferences of Chinese young people through Q Methodology. Feel free to contact him if you are interested in Q method and body image research. For him, the most important thing is to be responsible. He is curious about research about people’s motivation and subjectivity, and hopes to connect them with people’s lifestyles, decision making, and policy one day. 
-
-[Contact](mailto:119030011@link.cuhk.edu.cn) 
