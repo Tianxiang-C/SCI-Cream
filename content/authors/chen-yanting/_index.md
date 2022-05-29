@@ -72,3 +72,4 @@ user_groups:
 ---
 CHEN Yanting (陈彦廷) was a graduate advisee in applied psychology under Prof. HE Jinbo's supervision. She is a faulty responsible for teaching and counseling in [Guangdong Medical University](https://en.gdmu.edu.cn/index.htm) (Dongguan Campus).
 
+[Contact](mailto:cyt9707@126.com)
