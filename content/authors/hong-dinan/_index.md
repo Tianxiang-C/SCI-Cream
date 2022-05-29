@@ -45,11 +45,7 @@ education:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:dinanhong@link.cuhk.edu.cn'
- # - icon: twitter
+
  #   icon_pack: fab
  #   link: https://twitter.com/GeorgeCushen
  # - icon: google-scholar
@@ -77,3 +73,4 @@ user_groups:
 ---
 HONG Dinan (洪迪楠) is a graduate student in applied psychology under Prof. HE Jinbo’s supervision.
 
+[Contact](mailto:dinanhong@link.cuhk.edu.cn)
