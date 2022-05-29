@@ -36,19 +36,19 @@ education:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-#  - icon: envelope
-#    icon_pack: fas
-#    link: 'mailto:hejinbo@cuhk.edu.cn'
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:hejinbo@cuhk.edu.cn'
  # - icon: twitter
  #   icon_pack: fab
  #   link: https://twitter.com/GeorgeCushen
-#  - icon: google-scholar
-#    icon_pack: ai
-#    link: https://scholar.google.com/citations?hl=zh-CN&user=16qDmvsAAAAJ&view_op=list_works
-#  - icon: researchgate
-#    icon_pack: ai
-#    link: https://www.researchgate.net/profile/Jinbo-He
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?hl=zh-CN&user=16qDmvsAAAAJ&view_op=list_works
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Jinbo-He
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,6 +66,7 @@ highlight_name: true
 user_groups:
   - Principal Investigator
 ---
+Homepage: https://myweb.cuhk.edu.cn/hejinbo###
 
 Dr. HE Jinbo (何金波) is an assistant professor in applied psychology in the School of Humanities and Social Science, the Chinese University of Hong Kong, Shenzhen. Dr. HE got his Ph.D. degree in 2018. Dr. He's research interests include the mental health of children and adolescents, obesity, eating behaviors, eating disorders, body image, and various advanced quantitative research methods (e.g., structural equation modeling, latent growth curve modeling, finite mixture modeling, meta-analysis).
 
@@ -83,5 +84,3 @@ b) The relationships between disordered eating behaviors, appetitive traits, and
 c) How media, culture, gender identity, and sexual orientation influence eating behaviors and body image including both negative body image (e.g., body dissatisfaction) and positive body image (e.g., body appreciation and body functionality appreciation);
 
 d) Interventions for eating disorders, body image, and obesity.
-
-[Contact](mailto:hejinbo@cuhk.edu.cn) | [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=16qDmvsAAAAJ&view_op=list_works) | [Homepage](https://myweb.cuhk.edu.cn/hejinbo###) | [ResearchGate](https://www.researchgate.net/profile/Jinbo-He)
