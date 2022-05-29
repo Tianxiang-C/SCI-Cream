@@ -40,7 +40,10 @@ education:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:cyt9707@126.com'
  # - icon: twitter
  #   icon_pack: fab
  #   link: https://twitter.com/GeorgeCushen
@@ -68,5 +71,3 @@ user_groups:
   - Alumni
 ---
 CHEN Yanting (陈彦廷) was a graduate advisee in applied psychology under Prof. HE Jinbo's supervision. She is a faulty responsible for teaching and counseling in [Guangdong Medical University](https://en.gdmu.edu.cn/index.htm) (Dongguan Campus).
-
-[Contact](mailto:cyt9707@126.com)
