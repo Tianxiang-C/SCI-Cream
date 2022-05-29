@@ -42,11 +42,7 @@ education:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-   - icon: envelope
-     icon_pack: fas
-     link: 'mailto:220032006@link.cuhk.edu.cn'
- # - icon: twitter
+
  #   icon_pack: fab
  #   link: https://twitter.com/GeorgeCushen
  # - icon: google-scholar
@@ -75,3 +71,5 @@ user_groups:
 ---
 
 CHENG Ziyue (程紫玥) is a graduate student in applied psychology at The Chinese University of Hong Kong, Shenzhen, studying under Prof. HE Jinbo’s supervision. In September 2022, she will work as a mental health teacher in Bashu Secondary School, Chongqing.
+
+[Contact](mailto:220032006@link.cuhk.edu.cn)
