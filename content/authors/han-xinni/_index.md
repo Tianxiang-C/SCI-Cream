@@ -43,13 +43,7 @@ education:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:2823403198@qq.com'
-  - icon: orcid
-    icon_pack: ai
-    link: https://orcid.org/0000-0001-7300-3948
+
  # - icon: twitter
  #   icon_pack: fab
  #   link: https://twitter.com/GeorgeCushen
@@ -77,3 +71,5 @@ user_groups:
   - Current Undergraduate Advisees
 ---
 HAN Xinni (韩新妮) is a research assistant in applied psychology at The Chinese University of Hong Kong, Shenzhen, working under Prof. HE Jinbo’s supervision. She is now working on a project about an acceptance model of intuitive eating and a mediation effect of anxiety on the relationship between stressful life events and emotional eating, along with another two members from the same lab.
+
+[Contact](mailto:2823403198@qq.com) | [ORCID](https://orcid.org/0000-0001-7300-3948)
