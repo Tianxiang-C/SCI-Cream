@@ -1,5 +1,5 @@
 ---
-title: 'The relationship between body weight and dietary restraint is explained by body dissatisfaction and body image inflexibility among young adults in China'
+title: 'Internalized homophobia, body dissatisfaction, psychological distress, and Non-Suicidal Self-Injury among Young Sexual Minority Men in China'
 authors:
   - TIE Bijie
   - TANG Chanyuan
@@ -13,7 +13,7 @@ author_notes:
   - 
   - 'Corresponding author'
 date: '2022-05-17T00:00:00Z'
-doi: 
+doi: 10.1089/lgbt.2022.0007
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2020-09-24T00:00:00Z'
