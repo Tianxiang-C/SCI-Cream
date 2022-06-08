@@ -13,7 +13,7 @@ author_notes:
   - 
   - 'Corresponding author'
 date: '2022-05-17T00:00:00Z'
-doi: 10.1089/lgbt.2022.0007
+doi: '10.1089/lgbt.2022.0007'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2020-09-24T00:00:00Z'
