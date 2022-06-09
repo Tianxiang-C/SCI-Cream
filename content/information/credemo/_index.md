@@ -2,7 +2,7 @@
 title: Credemo 采样问题总结
 date: '2022-06-09'
 type: book
-weight: 
+weight: 10
 ---
 
 来自何老师的总结
