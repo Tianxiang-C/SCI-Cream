@@ -2,7 +2,7 @@
 title: Epidata
 date: '2022-05-11'
 type: book
-weight: 
+weight: 20
 ---
 
 Using Epidata to create templates, record data, and export data.
