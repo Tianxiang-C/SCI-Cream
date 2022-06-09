@@ -8,11 +8,13 @@ date: 2022-05-17
 
 近期，实验室研究生铁必杰（第一作者）、[唐婵媛](https://sci-cream.netlify.app/author/tang-chanyuan/)、[任遥翔](https://sci-cream.netlify.app/author/ren-yaoxiang/)和[崔舒淇](https://sci-cream.netlify.app/author/cui-shuqi/)及[何金波](https://sci-cream.netlify.app/author/he-jinbo/)教授（通讯作者）在[*LGBT HEALTH*](https://home.liebertpub.com/publications/lgbt-health/618)发表论文*Internalized homophobia, body dissatisfaction, psychological distress, and Non-Suicidal Self-Injury among Young Sexual Minority Men in China*.
 
-## 文章简介
+
+## **文章简介**
 
 性少数群体中的男性(sexual minority men；SMM)已被证明具有更高的非自杀性自伤(non-suicidal self-injury)的风险。虽然以往研究发现内化恐同（internalized homophobia）、对身体的不满（body dissatisfaction）和心理困扰（psychological distress）与SMM的非自杀性自伤有关，但很少有研究探索过其可能的内在联系机制。本研究以少数人群压力理论（minority stress theory）、自杀和身体意象的相关理论和文献为基础，提出身体不满和心理困扰可能起重要的中介作用。因此，本研究旨在探讨我国年轻SMM内化恐同与非自杀性自伤之间的关系，以及身体不满和心理困扰是否在这一关系中起中介作用。本研究通过对我国264名年轻SMM(22.00±2.86岁)调查，发现内化恐同是我国SMM非自杀性自伤的一个重要风险因素，体脂不满意、肌肉不满意和心理困扰都在内化恐同与非自杀性自伤中起中介作用。因此在未来针对我国SMM非自杀性自伤的干预研究中，应该充分考虑内化恐同的影响，以及身体不满意与心理困扰在其中的作用，以便于更有效的提升我国SMM群体身心健康水平。
 
-## 铁必杰创作历程和个人感悟
+
+## **铁必杰创作历程和个人感悟**
 
 这篇文章的灵感来源于去年12月在何老师指导下发表的那篇[*Body dissatisfaction and non‑suicidal self‑injury among Chinese young adults: a moderated mediation analysis*](https://doi.org/10.1007/s40519-021-01340-z)。该论文证实了我国情境下我国年轻人身体不满意与非自杀性自伤的关系，以及提出了可能的潜在机制。非自杀性自伤与身体不满意一直是我感兴趣的问题，因此通过对这两个问题的回顾发现特殊群体（性少数群体中的男性）面临着很严重的身体不满意与非自杀性自伤。那么其原因是什么呢？影响机制又是什么呢？于是我在何老师的启发下，进行了这样的一个研究。
 
