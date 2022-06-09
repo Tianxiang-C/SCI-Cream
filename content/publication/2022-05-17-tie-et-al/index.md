@@ -34,6 +34,12 @@ publication_short:
 summary: 
 
 tags:
+  - body dissatisfaction
+  - Chinese
+  - internalized homophobia
+  - muscularity dissatisfaction
+  - nonsuicidal self-injury
+  - psychological distress
 
 
 featured: false
