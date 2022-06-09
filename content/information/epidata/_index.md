@@ -11,8 +11,6 @@ Using Epidata to create templates, record data, and export data.
 
 This was recommended by me ([Tianxiang](https://sci-cream.netlify.app/author/cui-tianxiang/)) from Bilibili and was the video that I mainly referred to when learning Epidata. Feel free to tell me if you have better learning materials.
 
-{{< figure src="item4.jpg" >}}
-
 ## Learn
 
 <div style="position: relative; padding: 30% 45%;">
