@@ -38,7 +38,7 @@ tags:
   - Chinese
   - internalized homophobia
   - muscularity dissatisfaction
-  - nonsuicidal self-injury
+  - non-suicidal self-injury
   - psychological distress
 
 
