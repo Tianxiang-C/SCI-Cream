@@ -17,7 +17,7 @@ main:
     url: publication
     weight: 50
   - name: Information
-    url: information/regulations 
+    url: information
     weight: 60 
     
 
