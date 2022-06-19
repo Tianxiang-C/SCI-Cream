@@ -59,6 +59,9 @@ social:
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Shuqi-Cui-3
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-4929-5167
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
