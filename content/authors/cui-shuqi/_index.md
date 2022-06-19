@@ -22,8 +22,10 @@ bio: CUI Shuqi (崔舒淇) is a graduate student in applied psychology under Pro
 
 interests:
   - Body Image
-  - Eating Disorders
-  
+  - Overweight and Obesity
+  - Eating Behaviors
+  - Health Intervention
+  - LGBT Group
 
 education:
   courses:
