@@ -42,6 +42,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: cv
+    icon_pack: ai
+    link: https://docs.google.com/document/d/1-Y3-z6lxiTXEBm4aZ5jmAw1UIg4AYH6F/edit?usp=sharing&ouid=103479753213799871583&rtpof=true&sd=true
   - icon: envelope
     icon_pack: fas
     link: 'mailto:shuqicui@link.cuhk.edu.cn'
