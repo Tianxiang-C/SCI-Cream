@@ -69,7 +69,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Graduate Advisees
+  - Alumni
 ---
 XI Jiaxuan (席嘉璇) was a graduate student in applied psychology under Prof. HE Jinbo’s supervision.
 
