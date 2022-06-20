@@ -10,12 +10,12 @@ weight: 20
 superuser: false
 
 # Role/position
-role: Graduate Student in Applied Psychology
+role: 
 
 # Organizations/Affiliations
 organizations:
-  - name: The Chinese University of Hong Kong, Shenzhen
-    url: 'https://www.cuhk.edu.cn/en'
+  - name: 
+    url: ''
     
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include intuitive eating, mental health and family therapy.
