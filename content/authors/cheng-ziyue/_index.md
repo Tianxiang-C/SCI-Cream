@@ -33,7 +33,7 @@ education:
   #    year: 2027 (anticipated)
      - course: MSc in Applied Psychology
        institution: The Chinese University of Hong Kong, Shenzhen
-       year: 2020-2022 (anticipated)
+       year: 2020-2022
      - course: BSc in Psychology
        institution: Beijing Normal University
        year: 2015-2019
@@ -70,8 +70,8 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Graduate Advisees
+  - Alumni
   
 ---
 
-CHENG Ziyue (程紫玥) is a graduate student in applied psychology at The Chinese University of Hong Kong, Shenzhen, studying under Prof. HE Jinbo’s supervision. In September 2022, she will work as a mental health teacher in Bashu Secondary School, Chongqing.
+CHENG Ziyue (程紫玥) was a graduate student in applied psychology at The Chinese University of Hong Kong, Shenzhen, studying under Prof. HE Jinbo’s supervision. In September 2022, she will work as a mental health teacher in Bashu Secondary School, Chongqing.
