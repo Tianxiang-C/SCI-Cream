@@ -34,7 +34,7 @@ education:
   #    year: 2027 (anticipated)
     - course: MSc in Applied Psychology
       institution: The Chinese University of Hong Kong, Shenzhen
-      year: 2020-2022 (anticipated)
+      year: 2020-2022
     - course: BSc in Applied Psychology
       institution: Beijing Forestry University
       year: 2016-2020
@@ -78,7 +78,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Graduate Advisees
+  - Research Assistants
 ---
-CUI Shuqi (崔舒淇) is a graduate student in applied psychology under Prof. HE Jinbo’s supervision.
+CUI Shuqi (崔舒淇) was a graduate student (now is a RA) in applied psychology under Prof. HE Jinbo’s supervision.
 
