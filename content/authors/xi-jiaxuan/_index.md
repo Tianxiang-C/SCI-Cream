@@ -11,12 +11,12 @@ weight: 290
 superuser: false
 
 # Role/position
-role: Graduate Student in Applied Psychology
+role: 
 
 # Organizations/Affiliations
 organizations:
-  - name: The Chinese University of Hong Kong, Shenzhen
-    url: 'https://www.cuhk.edu.cn/en'
+  - name:
+    url: ''
     
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -32,7 +32,7 @@ education:
   #    year: 2027 (anticipated)
      - course: MSc in Applied Psychology
        institution: The Chinese University of Hong Kong, Shenzhen
-       year: 2020-2022 (anticipated)
+       year: 2020-2022
      - course: BMGT in Marketing
        institution: Huaqiao University
        year: 2016-2020
@@ -71,5 +71,5 @@ highlight_name: true
 user_groups:
   - Current Graduate Advisees
 ---
-XI Jiaxuan (席嘉璇) is a graduate student in applied psychology under Prof. HE Jinbo’s supervision.
+XI Jiaxuan (席嘉璇) was a graduate student in applied psychology under Prof. HE Jinbo’s supervision.
 
