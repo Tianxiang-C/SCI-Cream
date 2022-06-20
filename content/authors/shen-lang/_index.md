@@ -11,12 +11,12 @@ weight: 210
 superuser: false
 
 # Role/position
-role: Graduate Student in Applied Psychology
+role:
 
 # Organizations/Affiliations
 organizations:
-  - name: The Chinese University of Hong Kong, Shenzhen
-    url: 'https://www.cuhk.edu.cn/en'
+  - name: 
+    url: ''
     
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -33,7 +33,7 @@ education:
   #    year: 2027 (anticipated)
      - course: MSc in Applied Psychology
        institution: The Chinese University of Hong Kong, Shenzhen
-       year: 2020-2022 (anticipated)
+       year: 2020-2022
      - course: BSc in Applied Psychology
        institution: The Australian National University
        year: 2018-2020
@@ -73,7 +73,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Graduate Advisees
+  - Alumni
 ---
-SHEN Lang (沈浪) is a graduate student in applied psychology under Prof. HE Jinbo’s supervision.
+SHEN Lang (沈浪) was a graduate student in applied psychology under Prof. HE Jinbo’s supervision.
 
