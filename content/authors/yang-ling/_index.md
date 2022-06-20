@@ -72,5 +72,4 @@ user_groups:
 Yang Ling (杨凌) is an undergraduate student majoring in applied psychology, under the industrial/organizational stream. 
 
 Her current program:
-
 eating disorders and body image in patients with diabetes.
