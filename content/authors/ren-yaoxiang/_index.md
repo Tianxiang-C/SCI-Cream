@@ -10,7 +10,7 @@ weight: 200
 superuser: false
 
 # Role/position
-role: Graduate Student in Applied Psychology
+role: Research Assistant in Applied Psychology, Former Graduate Advisee
 
 # Organizations/Affiliations
 organizations:
@@ -69,9 +69,9 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Graduate Advisees
+  - Research Assistants
 
 ---
 
-REN Yaoxiang (任遥翔) is a graduate student in applied psychology under Prof. HE Jinbo's supervision.
+REN Yaoxiang (任遥翔) was a graduate student (now a RA) in applied psychology under Prof. HE Jinbo's supervision.
 
