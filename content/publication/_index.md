@@ -1,7 +1,7 @@
 ---
-title: Publications
+title: Publications (with advisees in the lab authored)
 
-subtitle: Listed in descending order by **publication date**; with advisees in the lab authored.
+subtitle:
 
 # Listing view
 view: citation
