@@ -1,7 +1,7 @@
 ---
-title: Publications (with advisees in the lab authored)
+title: Publications
 
-subtitle:
+subtitle: with advisees in the lab authored
 
 # Listing view
 view: citation
@@ -11,3 +11,9 @@ banner:
   caption: ''
   image: ''
 ---
+<style type="text/css">
+
+h3.subtitle {
+  text-align: center;
+}
+</style>
