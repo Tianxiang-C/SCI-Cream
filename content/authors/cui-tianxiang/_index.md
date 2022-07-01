@@ -48,7 +48,7 @@ social:
     link: https://curly-muskmelon-d3b.notion.site/CUI-Tianxiang-CV-dd0c4a9545814cbca3f5e77483221cdf
   - icon: envelope
     icon_pack: fas
-    link: https://cuitx.netlify.app/#contact
+    link: mailto:tianxiangcui@link.cuhk.edu.cn
   - icon: github
     icon_pack: fab
     link: https://github.com/Tianxiang-C
