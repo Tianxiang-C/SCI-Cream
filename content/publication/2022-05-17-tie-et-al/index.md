@@ -46,7 +46,7 @@ featured: false
 
 links:
   - name: ""
-    url: "https://doi.org/10.1089/lgbt.2022.0007"
+    url: ""
 url_pdf: 
 url_code: ''
 url_dataset: ''
