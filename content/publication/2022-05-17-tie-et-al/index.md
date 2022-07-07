@@ -44,16 +44,16 @@ tags:
 
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
+links:
+  - name: ""
+    url: "https://doi.org/10.1089/lgbt.2022.0007"
 url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://doi.org/10.1089/lgbt.2022.0007'
+url_source: ''
 url_video: ''
 
 # Featured image
