@@ -53,7 +53,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://doi.org/10.1089/lgbt.2022.0007'
 url_video: ''
 
 # Featured image
