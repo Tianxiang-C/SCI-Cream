@@ -6,7 +6,7 @@ date: 2022-05-17
 
 <!--more-->
 
-近期，实验室研究生铁必杰（第一作者）、[唐婵媛](https://sci-cream.netlify.app/author/tang-chanyuan/)、[任遥翔](https://sci-cream.netlify.app/author/ren-yaoxiang/)和[崔舒淇](https://sci-cream.netlify.app/author/cui-shuqi/)及[何金波](https://sci-cream.netlify.app/author/he-jinbo/)教授（通讯作者）在[*LGBT HEALTH*](https://home.liebertpub.com/publications/lgbt-health/618)发表论文*Internalized homophobia, body dissatisfaction, psychological distress, and Non-Suicidal Self-Injury among Young Sexual Minority Men in China*.
+近期，实验室研究生铁必杰（第一作者）、[唐婵媛](https://sci-cream.netlify.app/author/tang-chanyuan/)、[任遥翔](https://sci-cream.netlify.app/author/ren-yaoxiang/)和[崔舒淇](https://sci-cream.netlify.app/author/cui-shuqi/)及[何金波](https://sci-cream.netlify.app/author/he-jinbo/)教授（通讯作者）在[*LGBT HEALTH*](https://home.liebertpub.com/publications/lgbt-health/618)发表论文[*Internalized homophobia, body dissatisfaction, psychological distress, and Non-Suicidal Self-Injury among Young Sexual Minority Men in China*](https://doi.org/10.1089/lgbt.2022.0007).
 
 
 ## **文章简介**
