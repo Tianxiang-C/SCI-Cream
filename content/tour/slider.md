@@ -32,9 +32,9 @@ content:
         brightness: 0.7
         media: pizza.jpg
     - title: Principal Investigator & Research Assistants
-      align: center
+      align: bottom
       background:
-        position: center
+        position: top
         color: '#555'
         brightness: 0.7
         media: PI-RAs.jpg
