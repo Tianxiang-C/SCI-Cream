@@ -31,11 +31,9 @@ content:
         color: '#555'
         brightness: 0.7
         media: pizza.jpg
-    - title: "Principal Investigator 
-    
-      & 
-      
-      Research Assistants"
+    - title: "Principal Investigator
+      | & 
+      | Research Assistants"
       align: bottom
       background:
         position: top
