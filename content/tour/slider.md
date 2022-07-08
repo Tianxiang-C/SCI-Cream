@@ -34,7 +34,7 @@ content:
     - title: Principal Investigator & Research Assistants
       align: center
       background:
-        position: bottom
+        position: top
         color: '#555'
         brightness: 0.7
         media: PI-RAs.jpg
