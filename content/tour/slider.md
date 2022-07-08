@@ -31,9 +31,7 @@ content:
         color: '#555'
         brightness: 0.7
         media: pizza.jpg
-    - title: "Principal Investigator
-              \ & 
-              \ Research Assistants"
+    - title: PI & RAs
       align: bottom
       background:
         position: top
@@ -41,7 +39,7 @@ content:
         brightness: 0.7
         media: PI-RAs.jpg
       link:
-        text: Investigate More
+        text: Meet the Team
         url: https://sci-cream.netlify.app/people/
     - title: A Fun and Productive Lab
       content: 'Located in The Chinese University of Hong Kong, Shenzhen'
