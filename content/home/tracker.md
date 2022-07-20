@@ -1,7 +1,7 @@
 ---
 # An instance of the Tag Cloud widget.
 # Docs: https://wowchemy.com/docs/page-builder/
-widget: 'github.Tianxiang-C.tracker'
+widget: 'Tianxiang-C-scicream-tracker'
 
 # This file represents a page section.
 headless: true
