@@ -7,7 +7,7 @@ widget: 'github.Tianxiang-C.labtracker'
 headless: true
 
 # Order that this section appears on the page.
-weight: 140
+weight: 130
 
 title: Visitors
 
