@@ -1,7 +1,7 @@
 ---
 # An instance of the Tag Cloud widget.
 # Docs: https://wowchemy.com/docs/page-builder/
-widget: 'github.lab.tracker'
+widget: 'github.Tianxiang-C.labtracker'
 
 # This file represents a page section.
 headless: true
