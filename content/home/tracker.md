@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 140
 
-title:
+title: Visitors
 
 design:
   columns: '1'
