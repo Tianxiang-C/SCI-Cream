@@ -33,9 +33,12 @@ education:
     - course: MSc in Applied Psychology
       institution: The Chinese University of Hong Kong, Shenzhen
       year: 2020-2022
-    - course: BEcon in Economics
-      institution: China University of Geosciences
-      year: 
+    - course: MBA
+      institution: University of New Haven
+      year: 2010-2012
+    - course: BSc in Economics
+      institution: China University of Geosciences (Wuhan)
+      year: 2006-2010
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
