@@ -8,10 +8,10 @@ authors:
 author_notes:
   - 
   - 
-  - 
+  - 'Corresponding author'
   - 'Corresponding author'
 date: '2022-07-11T00:00:00Z'
-doi: ''
+doi: '10.1007/s40519-022-01448-w'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2020-09-24T00:00:00Z'
