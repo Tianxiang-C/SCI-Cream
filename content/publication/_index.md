@@ -1,5 +1,5 @@
 ---
-title: Publications (with lab advisees authored)
+title: Publications (with lab advisees authored; acceptance date reported)
 
 subtitle: 
 
