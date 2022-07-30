@@ -39,7 +39,7 @@ content:
         brightness: 0.7
         media: PI-RAs.jpg
       link:
-        text: Meet the Team
+        text: Investigate More
         url: https://sci-cream.netlify.app/people/
     - title: A Fun and Productive Lab
       content: 'Located in The Chinese University of Hong Kong, Shenzhen'
