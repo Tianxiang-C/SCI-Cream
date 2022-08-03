@@ -32,7 +32,7 @@ publication_types: ['2']
 publication: '*Appetite*, 106061'
 publication_short: ''
 
-abstract: "Abstract
+abstract: "
 
 Accumulating evidence suggests that parental feeding practices during childhood are
 related to adults’ eating behaviors and weight status, but research exploring these
@@ -46,7 +46,7 @@ with a mean age of 19.78 (*SD* = 1.23) years. We also examined whether appetitiv
 traits mediated these associations. Retrospective parental feeding practices were
 significantly related with participants’ current BMI (concern: *r* = .26, *p* < .001; pressure
 to eat: *r* = -.15, *p* < .001) and satisfaction with food-related life (concern: *r* = .15, *p* <
-.001; monitoring: *r* = .12, p = .009; pressure to eat: *r* = .13, p = .006; restriction: *r* = .16,
+.001; monitoring: *r* = .12, *p* = .009; pressure to eat: *r* = .13, *p* = .006; restriction: *r* = .16,
 *p* < .001). Relationships were partially mediated by young adults’ current appetitive
 traits (e.g., enjoyment of food, emotional overeating, satiety responsiveness, slowness
 in eating). These findings suggest that retrospective parental feeding practices are
