@@ -32,7 +32,27 @@ publication_types: ['2']
 publication: '*International Journal of Eating Disorders*'
 publication_short: '*Int J Eat Disord*'
 
+abstract:
+"Objective: This study examined the bidirectional relationships between sleep quality, loss of
+control (LOC) eating, and night eating among Chinese adolescents using longitudinal data over
+an 18-month study period.
 
+Method: Four-waves of data measurement (Times 1-4), at 6-month intervals, were conducted
+with 2566 adolescents aged 11 ~ 17 years at baseline. A set of questionaries were used to assess
+night eating, LOC eating, and sleep quality at each wave of data collection. Cross-lagged models
+were applied to analyze the bidirectional relationships among night eating, LOC eating, and
+sleep quality.
+
+Results: Results indicated that higher night eating scores consistently predicted poorer sleep
+quality and higher LOC eating scores at Time 1, 2, and 3. Furthermore, poorer sleep quality
+predicted higher night eating scores at Time 1 and Time 3, and higher LOC eating scores
+predicted higher night eating scores at Time 1 to Time 2.
+
+Discussion: These findings highlight that night eating, LOC eating, and sleep quality were
+interrelated across time among Chinese adolescents. Improving sleep quality and reducing LOC
+eating might be promising in the prevention of night eating in adolescents. Similarly, reducing
+night eating might be promising in improving sleep quality and reducing LOC eating in
+adolescents."
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -80,23 +100,4 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 ---
-Objective: This study examined the bidirectional relationships between sleep quality, loss of
-control (LOC) eating, and night eating among Chinese adolescents using longitudinal data over
-an 18-month study period.
 
-Method: Four-waves of data measurement (Times 1-4), at 6-month intervals, were conducted
-with 2566 adolescents aged 11 ~ 17 years at baseline. A set of questionaries were used to assess
-night eating, LOC eating, and sleep quality at each wave of data collection. Cross-lagged models
-were applied to analyze the bidirectional relationships among night eating, LOC eating, and
-sleep quality.
-
-Results: Results indicated that higher night eating scores consistently predicted poorer sleep
-quality and higher LOC eating scores at Time 1, 2, and 3. Furthermore, poorer sleep quality
-predicted higher night eating scores at Time 1 and Time 3, and higher LOC eating scores
-predicted higher night eating scores at Time 1 to Time 2.
-
-Discussion: These findings highlight that night eating, LOC eating, and sleep quality were
-interrelated across time among Chinese adolescents. Improving sleep quality and reducing LOC
-eating might be promising in the prevention of night eating in adolescents. Similarly, reducing
-night eating might be promising in improving sleep quality and reducing LOC eating in
-adolescents.
