@@ -32,8 +32,9 @@ publication_types: ['2']
 publication: '*International Journal of Eating Disorders*'
 publication_short: '*Int J Eat Disord*'
 
-abstract:
-"Objective: This study examined the bidirectional relationships between sleep quality, loss of
+abstract: "
+
+Objective: This study examined the bidirectional relationships between sleep quality, loss of
 control (LOC) eating, and night eating among Chinese adolescents using longitudinal data over
 an 18-month study period.
 
