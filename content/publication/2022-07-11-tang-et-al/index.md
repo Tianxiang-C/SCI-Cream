@@ -26,7 +26,15 @@ publication_types: ['2']
 publication: '*Eating and Weight Disorders-Studies on Anorexia, Bulimia and Obesity*'
 publication_short: '*Eat Weight Disord*'
 
+abstract: "
 
+Purpose: The Female Muscularity Scale (FMS) was specifically developed for assessing drive for muscularity in women. The current study aimed to translate the FMS into Chinese (FMS-C) and examine its psychometric properties among Chinese young women.
+
+Methods: Based on standard procedures, the FMS was translated into Chinese. By using the psych and lavaan packages on R version 4.0.3, the current study examined the factor structure, reliability, and convergent and incremental validity of the FMS-C with a sample of 517 Chinese women college students (*M<sub>age</sub>* = 18.86 years).
+
+Results: Results showed a 2-factor structure including attitudes and behaviors of the FMS-C. The internal consistency reliability (Cronbach's *α*) was .91 for the total FMS-C scale and .89 and .88 for the Attitudes and Behaviors subscales, respectively. Results also revealed evidence for good convergent and incremental validity of the FMS-C.
+
+Conclusion: Findings suggest that the FMS-C can be a useful tool to measure both attitudes and behaviors underlying drive for muscularity and muscle tone concerns among Chinese young women."
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -73,10 +81,4 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 ---
-Purpose: The Female Muscularity Scale (FMS) was specifically developed for assessing drive for muscularity in women. The current study aimed to translate the FMS into Chinese (FMS-C) and examine its psychometric properties among Chinese young women.
 
-Methods: Based on standard procedures, the FMS was translated into Chinese. By using the psych and lavaan packages on R version 4.0.3, the current study examined the factor structure, reliability, and convergent and incremental validity of the FMS-C with a sample of 517 Chinese women college students (*M<sub>age</sub>* = 18.86 years).
-
-Results: Results showed a 2-factor structure including attitudes and behaviors of the FMS-C. The internal consistency reliability (Cronbach's *α*) was .91 for the total FMS-C scale and .89 and .88 for the Attitudes and Behaviors subscales, respectively. Results also revealed evidence for good convergent and incremental validity of the FMS-C.
-
-Conclusion: Findings suggest that the FMS-C can be a useful tool to measure both attitudes and behaviors underlying drive for muscularity and muscle tone concerns among Chinese young women.
