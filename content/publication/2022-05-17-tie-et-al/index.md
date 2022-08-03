@@ -28,7 +28,15 @@ publication_types: ['2']
 publication: '*LGBT Health*'
 publication_short: 
 
+abstract: "
 
+Purpose: Sexual minority men (SMM) have been shown to be at high risk of nonsuicidal self-injury (NSSI). Internalized homophobia, body dissatisfaction, and psychological distress have been found to be related to NSSI among SMM, but few studies have focused on the mechanisms underlying these associations. Thus, the current study was conducted to examine the association between internalized homophobia and NSSI, and whether body dissatisfaction and psychological distress mediate this relationship among young SMM in China.
+
+Methods: In total, 264 young SMM (mean age, 22.00 ± 2.86 years) in Henan Province, China, participated in the study. A set of questionnaires were used to assess participants' internalized homophobia, body fat dissatisfaction, muscularity dissatisfaction, psychological distress, and NSSI. Correlation and mediation analyses were used to examine the data.
+
+Results: Internalized homophobia correlated positively with NSSI (*r* = 0.24, *p* < .001) among young SMM in China. This relationship was partly mediated by body fat dissatisfaction, muscularity dissatisfaction, and psychological distress.
+
+Conclusion: The study findings suggest that internalized homophobia is a risk factor for NSSI among young SMM in China, and that body fat and muscle dissatisfaction and psychological distress underlie the association between internalized homophobia and NSSI. In developing interventions targeting NSSI among SMM, the findings of the current study should be considered to improve intervention outcomes."
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -76,10 +84,4 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 ---
-Purpose: Sexual minority men (SMM) have been shown to be at high risk of nonsuicidal self-injury (NSSI). Internalized homophobia, body dissatisfaction, and psychological distress have been found to be related to NSSI among SMM, but few studies have focused on the mechanisms underlying these associations. Thus, the current study was conducted to examine the association between internalized homophobia and NSSI, and whether body dissatisfaction and psychological distress mediate this relationship among young SMM in China.
 
-Methods: In total, 264 young SMM (mean age, 22.00 ± 2.86 years) in Henan Province, China, participated in the study. A set of questionnaires were used to assess participants' internalized homophobia, body fat dissatisfaction, muscularity dissatisfaction, psychological distress, and NSSI. Correlation and mediation analyses were used to examine the data.
-
-Results: Internalized homophobia correlated positively with NSSI (*r* = 0.24, *p* < .001) among young SMM in China. This relationship was partly mediated by body fat dissatisfaction, muscularity dissatisfaction, and psychological distress.
-
-Conclusion: The study findings suggest that internalized homophobia is a risk factor for NSSI among young SMM in China, and that body fat and muscle dissatisfaction and psychological distress underlie the association between internalized homophobia and NSSI. In developing interventions targeting NSSI among SMM, the findings of the current study should be considered to improve intervention outcomes.
