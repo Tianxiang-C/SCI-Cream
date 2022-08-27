@@ -10,12 +10,12 @@ weight: 40
 superuser: false
 
 # Role/position
-role: Research Assistant in Applied Psychology, Former Graduate Advisee
+role: PhD Student in Psychology 
 
 # Organizations/Affiliations
 organizations:
-  - name: The Chinese University of Hong Kong, Shenzhen
-    url: 'https://www.cuhk.edu.cn/en'
+  - name: University of Macau
+    url: 'https://www.um.edu.mo/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include body image, eating behaviors, quantitative methods in psychology, and music psychology.
