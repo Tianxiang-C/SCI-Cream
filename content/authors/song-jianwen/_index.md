@@ -10,15 +10,15 @@ weight: 220
 superuser: false
 
 # Role/position
-role: Research Assistant in Applied Psychology, Former Graduate Advisee
+role: PhD Student in Quantitative Methods in Educational Psychology
 
 # Organizations/Affiliations
 organizations:
-  - name: The Chinese University of Hong Kong, Shenzhen
-    url: 'https://www.cuhk.edu.cn/en'
+  - name: Baylor University
+    url: 'https://www.baylor.edu/'
     
 # Short bio (displayed in user profile at end of posts)
-bio: SONG Jianwen is a research assistant in applied psychology at The Chinese University of Hong Kong, Shenzhen, working under Prof. HE Jinbo’s supervision.
+bio:
 
 interests:
   - Educational Psychology
@@ -76,5 +76,5 @@ highlight_name: true
 user_groups:
   - Research Assistants
 ---
-SONG Jianwen (宋牮闻) is a research assistant in applied psychology at The Chinese University of Hong Kong, Shenzhen, working under Prof. HE Jinbo’s supervision.
+SONG Jianwen (宋牮闻) is a PhD Student in quantitative methods in educational psychology in Department of Educational Psychology, Baylor University. He is also a research assistant in applied psychology at The Chinese University of Hong Kong, Shenzhen, working under Prof. HE Jinbo’s supervision.
 
