@@ -76,5 +76,5 @@ highlight_name: true
 user_groups:
   - Research Assistants
 ---
-SONG Jianwen (宋牮闻) is a PhD Student in quantitative methods in educational psychology in Department of Educational Psychology, Baylor University. He is also a research assistant in applied psychology at The Chinese University of Hong Kong, Shenzhen, working under Prof. HE Jinbo’s supervision.
+SONG Jianwen (宋牮闻) is a PhD Student in the Department of Educational Psychology, Baylor University. He is also a research assistant in applied psychology at The Chinese University of Hong Kong, Shenzhen, working under Prof. HE Jinbo’s supervision.
 
