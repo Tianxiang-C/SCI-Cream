@@ -79,4 +79,4 @@ user_groups:
   - Research Assistants
 ---
 
-CUI Tianxiang (崔天祥) is a PhD student in the Department of Psychology, University of Macau. He is also a research assistant in applied psychology at The Chinese University of Hong Kong, Shenzhen, working under Prof. HE Jinbo’s supervision. He built this website and is maintaining it (see the [repo](https://github.com/Tianxiang-C/SCI-Cream)). You may learn more about him by visiting his [homepage](https://cuitx.netlify.app/).
+CUI Tianxiang (崔天祥) is a PhD student in the Department of Psychology, University of Macau. He is also a research assistant in applied psychology at The Chinese University of Hong Kong, Shenzhen, working under Prof. HE Jinbo’s supervision. You may learn more about him by visiting his [homepage](https://cuitx.netlify.app/).
