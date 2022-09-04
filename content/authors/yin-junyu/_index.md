@@ -74,4 +74,4 @@ highlight_name: true
 user_groups:
   - Current Undergraduate Advisees
 ---
-YIN Junyu(尹珺瑜）is an undergraduate advisee in applied psychology under Prof.HE jinbo’s supervision.
+YIN Junyu (尹珺瑜) is an undergraduate advisee in applied psychology under Prof. HE jinbo’s supervision.
