@@ -23,9 +23,11 @@ bio:
 
 interests:
   - Health Psychology
-  - Psychology Research Method 
-  - Problem-based Learning
   - Music Psychology
+  - Psychological Research Method 
+  - Feminism
+  - Human Development
+
 
  
 education:
@@ -79,3 +81,5 @@ LIU Yutian (刘雨田) is an undergraduate advisee in applied psychology under P
 Her current programs:
 1.	Retrospective childhood parenting styles, parental feeding practices, and current maladaptive and adaptive eating behaviors among Chinese adults.
 2.	Body image and eating behaviors in Chinese pregnant women.
+3.	Exploring the Links from Perceived Childhood Parenting and Childhood Parent-Child Relation to Chinese Adults’ Current Psychological Distress: Impacts of Family-of-origin?
+4.	The effect of LGBTQ pride song on emotion, non-suicidal self-injury, internalized homophobia of LGBTQ group.
