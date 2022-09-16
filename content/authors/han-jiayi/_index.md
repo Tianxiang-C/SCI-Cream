@@ -23,9 +23,9 @@ bio:
 
 interests:
   - Body Image
-  -	Eating Disorders
-  -	Health Intervention
-  -	Psychological Counselling
+  - Eating Disorders
+  - Health Intervention
+  - Psychological Counselling
 
   
 
