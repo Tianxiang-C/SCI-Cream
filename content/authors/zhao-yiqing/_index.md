@@ -6,7 +6,7 @@ title: ZHAO Yiqing
 # Username (this should match the folder name)
 authors:
   - zhao-yiqing
-weight: 390
+weight: 425
 # Is this the primary user of the site?
 superuser: false
 
