@@ -24,7 +24,8 @@ bio:
 interests:
   - Body Image
   - Eating Disorders
-  - Aging and Psychological Counseling
+  - Aging 
+  - Psychological Counseling
   
 
 education:
@@ -35,7 +36,7 @@ education:
      - course: MSc in Applied Psychology
        institution: The Chinese University of Hong Kong, Shenzhen
        year: 2022-2024 (anticipated)
-     - course: BSc in Psychology
+     - course: BA in Psychology
        institution: McGill University
        year: 2016-2020
 
