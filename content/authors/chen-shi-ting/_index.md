@@ -6,7 +6,7 @@ title: CHEN Shi'ting
 # Username (this should match the folder name)
 authors:
   - chen-shi-ting
-weight: 0.5
+weight: 
 # Is this the primary user of the site?
 superuser: false
 
