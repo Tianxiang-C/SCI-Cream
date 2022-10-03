@@ -29,8 +29,8 @@ publishDate: '2020-09-24T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*International Journal of Eating Disorders*, 1-10'
-publication_short: '*Int J Eat Disord*, 1-10'
+publication: '*International Journal of Eating Disorders, 55*(10),1374–1383.'
+publication_short: '*Int J Eat Disord, 55*(10),1374–1383.'
 
 abstract: "
 
