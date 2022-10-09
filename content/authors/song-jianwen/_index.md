@@ -10,7 +10,7 @@ weight: 220
 superuser: false
 
 # Role/position
-role: PhD Student in Quantitative Methods in Educational Psychology
+role: PhD Student in Educational Psychology
 
 # Organizations/Affiliations
 organizations:
@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-    - course: PhD in Quantitative Methods in Educational Psychology
+    - course: PhD in Educational Psychology
       institution: Baylor University
       year: 2022-2027 (anticipated)
     - course: MSc in Applied Psychology
