@@ -1,7 +1,7 @@
 ---
-title: Publications (with lab advisees authored)
+title: Publications
 
-subtitle: 
+subtitle: Sorted by the acceptance date.
 
 # Listing view
 view: citation
