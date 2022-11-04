@@ -15,7 +15,7 @@ author_notes:
   - 
   - 'Corresponding author'
 date: '2022-10-13T00:00:00Z'
-doi: ''
+doi: '10.1016/j.bodyim.2022.10.005'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2020-09-24T00:00:00Z'
