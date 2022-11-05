@@ -27,7 +27,7 @@ publishDate: '2020-09-24T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Body Image*'
+publication: '*Body Image, 43*, 429-439'
 publication_short: ''
 
 abstract: "Given existing empirical support for the tripartite influence and social comparison models to explain variance in body dissatisfaction and disordered eating across diverse populations in the Western context, research is needed to describe these models in non-Western populations. The present study tested an integrated model inclusive of appearance pressures, thinness and muscularity internalizations, and social comparisons in relation to drive for muscularity and thinness-oriented disordered eating in heterosexual Chinese adult men (*n* = 510) and women (*n* = 473). Separated by gender, two integrated models had good fit statistics per structural equation modeling. In men and women, higher appearance pressures were uniquely related to higher drive for muscularity and thinness-oriented disordered eating. In men and women, higher thinness and muscularity internalizations were uniquely related to higher thinness-oriented disordered eating and drive for muscularity, respectively. In men and women, higher upward body image comparisons were uniquely related to higher drive for muscularity, and in men only, higher downward body image comparisons were uniquely related to higher thinness-oriented disordered eating. The present findings, which extend theories of eating pathology, may aid in improving treatment efforts for body dissatisfaction and disordered eating in heterosexual Chinese adult men and women.
