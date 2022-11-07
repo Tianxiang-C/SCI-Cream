@@ -65,7 +65,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://link.springer.com/content/pdf/10.1186/s40337-022-00545-6.pdf
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''
