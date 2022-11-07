@@ -46,7 +46,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: uploads/Cheng_et_al_2022_nutrients.pdf
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''
