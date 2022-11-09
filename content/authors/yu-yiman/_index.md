@@ -11,7 +11,7 @@ weight: 360
 superuser: false
 
 # Role/position
-role: Current Undergraduate Advisee in Applied Psychology
+role: Undergraduate Student in Applied Psychology
 
 # Organizations/Affiliations
 organizations:
@@ -71,11 +71,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Undergraduate Advisees
+  - Alumni
 ---
-YU Yiman (余奕满) is an undergraduate advisee in applied psychology under Prof. HE Jinbo's supervision.
 
-Her current programs:
-1.	Exploring retrospective childhood parenting styles and parent-child relationship quality as Correlates of Chinese adults’ current psychological distress: Influence of family-of-origin?
-2.	Pregnant women’s body dissatisfaction and disordered eating.
 
