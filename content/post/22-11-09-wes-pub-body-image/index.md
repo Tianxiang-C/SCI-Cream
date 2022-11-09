@@ -7,7 +7,7 @@ date: 2022-11-09
 
 <!--more-->
 
-近日，实验室成员崔天祥、崔舒淇、韩新妮和路晨在何金波教授（通讯作者）的指导下与合作者博林格林州立大学的博士生Wesley Barnhart在临床心理学权威期刊Body Image发表合作研究成果《Examining appearance pressures, thinness and muscularity internalizations, and social comparisons as correlates of drive for muscularity and thinness-oriented disordered eating in Chinese heterosexual men and women: Testing an integrated model》.
+近日，实验室成员[崔天祥](https://sci-cream.netlify.app/author/cui-tianxiang/)、[崔舒淇](https://sci-cream.netlify.app/author/cui-shuqi/)、[韩新妮](https://sci-cream.netlify.app/author/han-xinni/)和[路晨](https://sci-cream.netlify.app/author/lu-chen/)在[何金波](https://sci-cream.netlify.app/author/he-jinbo/)教授（通讯作者）的指导下与合作者博林格林州立大学的博士生[Wesley Barnhart](https://scholar.google.com/citations?user=KHqq5-UAAAAJ&hl=en)在临床心理学权威期刊Body Image发表合作研究成果[*Examining appearance pressures, thinness and muscularity internalizations, and social comparisons as correlates of drive for muscularity and thinness-oriented disordered eating in Chinese heterosexual men and women: Testing an integrated model*](https://doi.org/10.1016/j.bodyim.2022.10.005).
 
 **标题**：中国异性恋男性和女性的外貌压力、瘦内化和肌肉内化、以及社会比较与增肌倾向和瘦取向饮食失调的关系研究
 
