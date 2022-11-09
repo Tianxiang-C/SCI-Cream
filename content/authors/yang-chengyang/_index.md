@@ -11,7 +11,7 @@ weight: 420
 superuser: false
 
 # Role/position
-role: Current Undergraduate Advisee in Applied Psychology
+role: Undergraduate Student in Applied Psychology
 
 # Organizations/Affiliations
 organizations:
@@ -69,7 +69,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Undergraduate Advisees
+  - Alumni
 ---
-YANG Chengyang (杨程扬) is an undergraduate advisee in applied psychology under Prof. HE Jinbo's supervision.
+
 
