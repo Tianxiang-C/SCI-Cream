@@ -16,7 +16,7 @@ main:
   - name: Publications
     url: publication
     weight: 50
-  - name: Resource
+  - name: Resources
     url: information
     weight: 60 
     
