@@ -1,5 +1,5 @@
 ---
-title: Information
+title: Resources
 type: page
 
 view: compact
