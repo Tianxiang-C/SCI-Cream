@@ -66,21 +66,4 @@ highlight_name: true
 user_groups:
   - Principal Investigator
 ---
-Homepage: https://myweb.cuhk.edu.cn/hejinbo###
-
-Dr. HE Jinbo (何金波) is an assistant professor in applied psychology in the School of Humanities and Social Science, the Chinese University of Hong Kong, Shenzhen. Dr. HE got his Ph.D. degree in 2018. Dr. He's research interests include the mental health of children and adolescents, obesity, eating behaviors, eating disorders, body image, and various advanced quantitative research methods (e.g., structural equation modeling, latent growth curve modeling, finite mixture modeling, meta-analysis).
-
-
-Dr. HE has two research lines: 
-
-1) Quantitative research methods (e.g., structural equation modeling, finite mixture modeling, psychometrics), and my most recent interests are about the model selection issues in finite mixture modeling (e.g., latent class models, growth mixture models, and factor mixture models); 
-
-2) Healthy psychology (e.g., eating behaviors, appetitive traits, food preferences, body image); more specifically, I use both quantitative and qualitative (or mixed) research methods to explore: 
-
-a) The characteristics of Avoidant/Restrictive Food Intake Disorder (ARFID), Orthorexia Nervosa (ON), and Night Eating Syndrome (NES) among Chinese children, adolescents, young adults, and elderly; 
-
-b) The relationships between disordered eating behaviors, appetitive traits, and obesity;
-
-c) How media, culture, gender identity, and sexual orientation influence eating behaviors and body image including both negative body image (e.g., body dissatisfaction) and positive body image (e.g., body appreciation and body functionality appreciation);
-
-d) Interventions for eating disorders, body image, and obesity.
+Facaulty page: https://myweb.cuhk.edu.cn/hejinbo###
