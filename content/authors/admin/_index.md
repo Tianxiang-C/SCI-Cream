@@ -43,8 +43,8 @@ social:
  # - icon: twitter
  #   icon_pack: fab
  #   link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.com/citations?hl=zh-CN&user=16qDmvsAAAAJ&view_op=list_works
   - icon: researchgate
     icon_pack: ai
