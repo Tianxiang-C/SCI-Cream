@@ -67,7 +67,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Undergraduate Advisees
+  - Alumni
 ---
 Yang Ling (杨凌) is an undergraduate student majoring in applied psychology, under the industrial/organizational stream. 
 
