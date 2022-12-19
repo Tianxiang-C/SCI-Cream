@@ -66,4 +66,4 @@ highlight_name: true
 user_groups:
   - Principal Investigator
 ---
-Facaulty page: https://myweb.cuhk.edu.cn/hejinbo###
+Faculty page: https://myweb.cuhk.edu.cn/hejinbo###
