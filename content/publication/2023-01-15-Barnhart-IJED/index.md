@@ -26,7 +26,9 @@ publication_types: ['2']
 publication: '*International Journal of Eating Disorders*'
 publication_short: '*Int J Eat Disord*'
 
-abstract: "Objective: An extensive literature has documented the deleterious effects of weight bias internalization (WBI) on biopsychosocial health outcomes. Still, this research is largely confined to the Western context. Furthermore, few studies have explored associations between WBI and biopsychosocial health outcomes, including in non-Western adolescent populations. 
+abstract: "
+
+Objective: An extensive literature has documented the deleterious effects of weight bias internalization (WBI) on biopsychosocial health outcomes. Still, this research is largely confined to the Western context. Furthermore, few studies have explored associations between WBI and biopsychosocial health outcomes, including in non-Western adolescent populations. 
 
 Method: The present study explored the longitudinal relationships between WBI and body dissatisfaction, disordered eating, psychosocial impairment related to eating disorder features, and psychological and physical well-being in a sample (*N* = 1549; aged 11-18 years at baseline) of Chinese adolescents. Relationships between study variables were examined between two waves of data measurement (Time 1, baseline, and Time 2, 6-month). Crosslagged and multivariate models were used to explore prospective relationships between WBI and biopsychosocial correlates. 
 
