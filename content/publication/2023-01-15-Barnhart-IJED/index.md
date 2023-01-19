@@ -11,7 +11,7 @@ author_notes:
   - 
   - 'Corresponding author'
 date: '2023-01-15T00:00:00Z'
-doi: ''
+doi: '10.1002/eat.23904'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2020-09-24T00:00:00Z'
