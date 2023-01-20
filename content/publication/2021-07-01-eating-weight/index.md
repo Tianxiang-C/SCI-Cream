@@ -25,8 +25,8 @@ publishDate: '2021-07-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Eating and Weight Disorders-Studies on Anorexia, Bulimia and Obesity, 27*, 1001-1010'
-publication_short: '*Eat Weight Disord, 27*, 1001-1010'
+publication: '*Eating and Weight Disorders-Studies on Anorexia, Bulimia and Obesity, 27*(3), 1001-1010'
+publication_short: '*Eat Weight Disord, 27*(3), 1001-1010'
 
 abstract: "**Purpose**: This paper aimed to explore the association between the patterns of perceived parenting styles and adolescents’ night eating syndrome symptoms and correlates, including sleep quality, weight status, loss of control over eating, and psychological distress.
 
