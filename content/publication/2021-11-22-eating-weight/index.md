@@ -23,8 +23,8 @@ publishDate: '2021-11-22T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Eating and Weight Disorders-Studies on Anorexia, Bulimia and Obesity*, 1-12'
-publication_short: '*Eat Weight Disord*, 1-12'
+publication: '*Eating and Weight Disorders-Studies on Anorexia, Bulimia and Obesity, 27*(6), 2051–2062'
+publication_short: '*Eat Weight Disord, 27*(6), 2051–2062'
 
 abstract: "**Objective**: Extensive evidence from Western societies supports the role for body dissatisfaction in the etiological models of non-suicidal self-injury (NSSI). However, research of the underlying mechanisms of this relationship has been limited, especially in China. Therefore, the aim of this study was to examine the association between body dissatisfaction and NSSI among college students in China. Possible mediating roles for psychological distress and disordered eating, as well as a moderating role for self-compassion, were also examined.
 
