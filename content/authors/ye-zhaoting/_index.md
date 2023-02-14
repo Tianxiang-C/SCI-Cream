@@ -72,4 +72,4 @@ highlight_name: true
 user_groups:
   - Current Undergraduate Advisees
 ---
-YE Zhaoting (叶钊廷) is an undergraduate adviser under the supervision of Prof. HE Jinbo. She is currently studying male eating disorders.
+YE Zhaoting (叶钊廷) is an undergraduate advisee in applied psychology under Prof. HE Jinbo’s supervision.
