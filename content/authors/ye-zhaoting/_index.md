@@ -6,7 +6,7 @@ title: YE Zhaoting
 # Username (this should match the folder name)
 authors:
   - ye-zhaoting
-weight: 235
+weight: 343
 # Is this the primary user of the site?
 superuser: false
 
