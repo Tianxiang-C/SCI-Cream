@@ -7,7 +7,7 @@ date: 2023-02-08
 
 <!--more-->
 
-## 何金波教授作为通讯作者，与实验室成员崔舒淇（研究助理）、崔天祥（研究助理，澳门大学博士生）和Wesley R. Barnhart (博林格林州立大学心理学博士生) 于临床心理学权威期刊《International Journal of Eating Disorders》合作发表论文“Relationships between weight bias internalization and biopsychosocial health outcomes: A prospective study in Chinese adolescents”.
+何金波教授作为通讯作者，与实验室成员崔舒淇（研究助理）、崔天祥（研究助理，澳门大学博士生）和Wesley R. Barnhart (博林格林州立大学心理学博士生) 于临床心理学权威期刊《International Journal of Eating Disorders》合作发表论文“Relationships between weight bias internalization and biopsychosocial health outcomes: A prospective study in Chinese adolescents”.
 
 
 标题：体重偏见内化与生物心理社会的健康结果的关系: 基于中国青少年的前瞻性研究
@@ -24,8 +24,9 @@ date: 2023-02-08
 
 原文链接：https://doi.org/10.1002/eat.23904
 
+---
 
-## 何金波教授作为共同通讯作者，与其他合作者于肥胖研究期刊《Obesity Research & Clinical Practice》合作发表论文 “Appetitive traits and body mass index in Chinese adolescents: An 18-month longitudinal study with latent growth curve analyses”.
+何金波教授作为共同通讯作者，与其他合作者于肥胖研究期刊《Obesity Research & Clinical Practice》合作发表论文 “Appetitive traits and body mass index in Chinese adolescents: An 18-month longitudinal study with latent growth curve analyses”.
 
 
 标题：中国青少年的食欲特质和体重指数的关系:一项为期18个月的纵向研究与潜增长曲线分析
@@ -38,11 +39,14 @@ date: 2023-02-08
 结果表明，情绪化暴饮暴食、挑食物和饥饿感随着时间的推移显著增加，而对于食物的享受随着时间的推移而下降。女孩的进食缓慢和饱腹感响应显著随时间增加，而男孩的情绪性抑制进食随时间显著减少。此外，女生在情绪性抑制进食和饱腹感响应与BMI呈显著负相关。总体而言，我们的研究结果证明，在青少年时期，某些食欲特征会随着时间的推移而改变，而这些变化与体重状况有关，并且有性别差异。这些研究结果，可以为未来中国青少年超重/肥胖的干预和治疗的提供了理论参考。
 
 
+{{< figure src="fig1.jpg" >}}
+
 
 原文链接：https://doi.org/10.1016/j.orcp.2022.12.00
 
+---
 
-## 何金波教授作为共同通讯作者，与华中师范大学蔡志慧教授、香港中文大学范息涛教授及其他合作者于发展心理学期刊《Adolescent Research Review》合作发表论文 “Associations Between Problematic Internet Use and Mental Health Outcomes of Students: A Meta‑analytic Review”.
+何金波教授作为共同通讯作者，与华中师范大学蔡志慧教授、香港中文大学范息涛教授及其他合作者于发展心理学期刊《Adolescent Research Review》合作发表论文 “Associations Between Problematic Internet Use and Mental Health Outcomes of Students: A Meta‑analytic Review”.
 
 
 标题：问题网络使用和学生心理健康之间的关系的元分析
@@ -57,8 +61,9 @@ date: 2023-02-08
 
 原文链接：https://doi.org/10.1007/s40894-022-00201-9
 
+---
 
-## 何金波教授作为通讯作者，与实验室成员肖晗（本科生）、韩新妮（本科生）、叶争妍（本科生）、宋牮闻（研究助理，贝勒大学博士生），崔天祥（研究助理，澳门大学博士生）和其他美国合作者于饮食行为期刊《Eating Behaviors》合作发表论文 “Assessing hedonic hunger among Chinese adults using the Power of Food Scale: Psychometric properties and cross-cultural invariance between China and the US”.
+何金波教授作为通讯作者，与实验室成员肖晗（本科生）、韩新妮（本科生）、叶争妍（本科生）、宋牮闻（研究助理，贝勒大学博士生），崔天祥（研究助理，澳门大学博士生）和其他美国合作者于饮食行为期刊《Eating Behaviors》合作发表论文 “Assessing hedonic hunger among Chinese adults using the Power of Food Scale: Psychometric properties and cross-cultural invariance between China and the US”.
 
 
 标题：食物力量量表在中国成年人中的测量属性及中美跨文化测量等值性检验
