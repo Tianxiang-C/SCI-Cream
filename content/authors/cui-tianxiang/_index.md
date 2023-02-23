@@ -45,7 +45,7 @@ education:
 social:
   - icon: cv
     icon_pack: ai
-    link: https://curly-muskmelon-d3b.notion.site/CUI-Tianxiang-CV-dd0c4a9545814cbca3f5e77483221cdf
+    link: https://cuitx.notion.site/Cui-Tianxiang-CV-dd0c4a9545814cbca3f5e77483221cdf
   - icon: envelope
     icon_pack: fas
     link: mailto:tianxiangcui@link.cuhk.edu.cn
