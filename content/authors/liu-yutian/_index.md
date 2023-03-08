@@ -23,7 +23,7 @@ bio:
 
 interests:
   - Health Psychology
-  - Music Psychology
+  - Music Therapy
   - Psychological Research Method 
   - Feminism
   - Human Development
