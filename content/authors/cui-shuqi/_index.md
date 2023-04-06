@@ -23,9 +23,8 @@ bio: CUI Shuqi (崔舒淇) is a graduate student in applied psychology under Pro
 
 interests:
   - Body Image
-  - Overweight and Obesity
   - Eating Behaviors
-  - Health Intervention
+  - Health Intervention and Prevention
   - LGBT Group
 
 education:
@@ -95,9 +94,3 @@ As the lab manager, I am mainly responsible for:
 * Lab Funding Management
 * Lab Manual (Writing & Editing)  
 Please contact me through Email (shuqicui@link.cuhk.edu.cn) or WeChat if you have any questions.
-
-Research Interests:
-* Body Image
-* Eating Behaviors
-* Health Intervention and Prevention
-* LGBT Group
