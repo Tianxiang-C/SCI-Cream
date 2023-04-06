@@ -33,6 +33,9 @@ education:
   #  - course: PhD in Quantitative Methods in Educational Psychology
   #   institution: Baylor University
   #    year: 2027 (anticipated)
+    - course: PhD in Applied Psychology
+      institution: The Chinese University of Hong Kong, Shenzhen
+      year: 2023-
     - course: MSc in Applied Psychology
       institution: The Chinese University of Hong Kong, Shenzhen
       year: 2020-2022
@@ -84,5 +87,17 @@ highlight_name: true
 user_groups:
   - Research Assistants
 ---
-CUI Shuqi (崔舒淇) was a graduate student (now is a RA) in applied psychology under Prof. HE Jinbo’s supervision.
+Hi, I’m CUI Shuqi (崔舒淇), an incoming Ph.D. student in the Applied Psychology program at the Chinese University of Hong Kong (Shenzhen), supervised by Prof. [He Jinbo](https://sci-cream.netlify.app/author/he-jinbo/). 
 
+As the lab manager, I am mainly responsible for:
+* SCI CREAM WeChat Official Account Management (e.g., writing, reviewing, posting)
+* Credamo/Lab Gmail/Lab Google Drive Account Management
+* Lab Funding Management
+* Lab Manual (Writing & Editing)  
+Please contact me through Email (shuqicui@link.cuhk.edu.cn) or WeChat if you have any questions.
+
+Research Interests:
+* Body Image
+* Eating Behaviors
+* Health Intervention and Prevention
+* LGBT Group
