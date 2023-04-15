@@ -30,7 +30,7 @@ publishDate: '2020-09-24T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Body Image, 45*, 210-218'
+publication: '*Body Image*'
 publication_short: ''
 
 abstract: "
