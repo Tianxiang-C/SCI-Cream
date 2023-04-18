@@ -18,7 +18,7 @@ author_notes:
   - 
 
 date: '2023-04-14T00:00:00Z'
-doi: ''
+doi: '10.1016/j.bodyim.2023.04.003'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2020-09-24T00:00:00Z'
@@ -34,14 +34,18 @@ publication: '*Body Image*'
 publication_short: ''
 
 abstract: "
-
+Despite increasing research on weight teasing and other forms of appearance teasing, muscularity teasing, which occurs when an individual is victimized due to low muscularity, has not yet received research attention. Given the solid evidence of relations between weight teasing and thinness-oriented body dissatisfaction and disordered eating, this study aimed to tap into muscularity teasing and examine associations with muscularity-oriented body dissatisfaction and muscularity-oriented disordered eating (e.g., rigid dietary rules for enhancing muscularity). A sample of 500 Chinese men, aged 18 – 62 years, were recruited online, and they competed questionnaires assessing muscularity teasing, muscularity bias internalization, muscularity dissatisfaction, and muscularity-oriented disordered eating. Correlation analyses showed that muscularity teasing was significantly related to muscularity bias internalization (*r* = 0.55, *p* < .001), muscularity-oriented body dissatisfaction (*r* = 0.50, *p* < .001), and muscularity-oriented disordered eating (*r* = 0.38, *p* < .001). Structural equation modelling indicated that muscularity bias internalization and muscularity-oriented body dissatisfaction, as concurrent mediators, fully mediated the relationships between muscularity teasing and muscularity-oriented disordered eating. Findings extend existing knowledge in appearance teasing research to encompass muscularity teasing in order to better understand the etiology of muscularity-oriented body dissatisfaction and muscularity-oriented disordered eating in adult men. 
 "
 
 # Summary. An optional shortened abstract.
 summary: 
 
 tags:
-
+  - muscularity teasing
+  - muscularity bias internalization
+  - muscularity dissatisfaction
+  - muscularity-oriented disordered eating
+  - Chinese men
 
 featured: false
 
