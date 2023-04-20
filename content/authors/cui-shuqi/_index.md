@@ -10,7 +10,7 @@ weight: 30
 superuser: false
 
 # Role/position
-role: Research Assistant in Applied Psychology, Former Graduate Advisee
+role: Incoming PhD Student in Applied Psychology
 
 
 # Organizations/Affiliations
@@ -84,7 +84,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research Assistants
+  - PhD Students
 ---
 Hi, I’m CUI Shuqi (崔舒淇), an incoming Ph.D. student in the Applied Psychology program at the Chinese University of Hong Kong (Shenzhen), supervised by Prof. [He Jinbo](https://sci-cream.netlify.app/author/he-jinbo/). 
 
