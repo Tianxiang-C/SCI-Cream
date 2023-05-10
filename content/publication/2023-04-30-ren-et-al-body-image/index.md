@@ -54,11 +54,12 @@ for the reciprocal relationships between body dissatisfaction and body appreciat
 summary: 
 
 tags:
-  - muscularity teasing
-  - muscularity bias internalization
-  - muscularity dissatisfaction
-  - muscularity-oriented disordered eating
-  - Chinese men
+  - body image
+  - body dissatisfaction
+  - body appreciation
+  - random intercept cross-lagged panel model
+  - Chinese adolescents
+
 
 featured: false
 
