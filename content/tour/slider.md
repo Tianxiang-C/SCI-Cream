@@ -30,7 +30,7 @@ content:
         position: center
         color: '#555'
         brightness: 0.7
-        media: pizza.jpg
+        media: 2305-cake.jpg
     - title: PI & RAs
       align: bottom
       background:
@@ -48,7 +48,7 @@ content:
         position: center
         color: '#333'
         brightness: 0.5
-        media: laughing.jpg
+        media: 202305.jpg
       link:
         icon: graduation-cap
         icon_pack: fas
