@@ -38,19 +38,33 @@ publication_short: '*Int J Eat Disord*'
 abstract: "
 
 Objective
+
+
 This study assessed picky eating in pregnant women by exploring whether picky eating is associated with pregnant women's well-being, including life satisfaction, psychological distress, and psychosocial impairment.
 
+
 Method
+
+
 Data collected were from 345 Chinese pregnant women (
  = 29.95 years, SD = 5.58). Pearson correlation analyses were conducted to examine zero-order correlations between picky eating and well-being variables (i.e., life satisfaction, psychological distress, and psychosocial impairment). Hierarchical multiple regressions were conducted to examine the unique associations of picky eating with well-being variables, adjusting for demographic and pregnancy-related characteristics and thinness-oriented disordered eating.
 
+
 Results
+
+
 Picky eating was significantly and negatively correlated with life satisfaction (r = −.24, p < .001) and positively correlated with psychological distress (r = .37, p < .001) and psychosocial impairment (r = .50, p < .001). When adjusting for covariates and thinness-oriented disordered eating, picky eating was still significantly associated with lower life satisfaction, higher psychological distress, and higher psychosocial impairment.
 
+
 Discussion
+
+
 The findings suggest that picky eating may be a significant correlate of pregnant women's poorer well-being. Future research with longitudinal designs is warranted to further examine the temporal associations between picky eating and pregnant women's well-being.
 
+
 Public Significance
+
+
 Picky eating behaviors are poorly understood in pregnant women. Our results revealed that higher picky eating behaviors were associated with lower life satisfaction and higher psychological distress and psychosocial impairment in Chinese pregnant women. Researchers and clinicians may consider picky eating in the assessment and treatment of mental health and disordered eating in pregnant women.
 "
 
