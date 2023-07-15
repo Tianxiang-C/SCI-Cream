@@ -11,8 +11,7 @@ weight: 310
 superuser: false
 
 # Role/position
-role: Graduate Student in Applied Psychology
-
+role: Research Assistants
 # Organizations/Affiliations
 organizations:
   - name: The Chinese University of Hong Kong, Shenzhen
