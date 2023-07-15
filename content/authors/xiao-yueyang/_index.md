@@ -39,7 +39,7 @@ education:
     - course: MEd in Basic Psychology
       institution: Southwest University
       year: 2020-2023
-    - course: BSc Applied Psychology
+    - course: BSc Psychology
       institution: The Australian National University
       year: 2018-2020
     - course: BSc in Psychology
