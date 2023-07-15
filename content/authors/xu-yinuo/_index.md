@@ -11,7 +11,7 @@ weight: 310
 superuser: false
 
 # Role/position
-role: Research Assistants
+role: Research Assistant in Applied Psychology
 # Organizations/Affiliations
 organizations:
   - name: The Chinese University of Hong Kong, Shenzhen
@@ -68,7 +68,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Graduate Advisees
+  - Research Assistants
 ---
 XU Yinuo (许一诺) is a graduate student in applied psychology under Prof. HE Jinbo’s supervision.
 
