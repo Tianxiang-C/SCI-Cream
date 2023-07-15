@@ -10,7 +10,7 @@ weight: 240
 superuser: false
 
 # Role/position
-role: Research Assistant in Applied Psychology, Former Graduate Advisee
+role: Former Graduate Advisee
 
 # Organizations/Affiliations
 organizations:
