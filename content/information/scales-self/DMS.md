@@ -46,3 +46,5 @@ He, J., Murray, S., Compte, E. J., Song, J., & Nagata, J. M. (2021). The muscula
 3. 分量表得分为各分量表题目的平均分
 4. 态度分量表：DMS1, DMS7, DMS9, DMS11, DMS13, DMS14, DMS15
 5. 行为分量表：DMS2, DMS3, DMS4, DMS5, DMS6, DMS8, DMS10, DMS12
+
+说明： 肌肉倾向量表中文版可以免费使用。
