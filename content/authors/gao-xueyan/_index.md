@@ -74,6 +74,6 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Undergraduate Advisees
+  - Alumni
 ---
-GAO Xueyan (高雪严) is an undergraduate advisee in applied psychology under Prof. HE Jinbo's supervision. Since September 2019, he conducted a series studies covering Ecological Momentary Assessment, Intuitive Eating, Self-Determination, and so on.
+GAO Xueyan (高雪严) was an undergraduate advisee in applied psychology under Prof. HE Jinbo's supervision. Since September 2019, he conducted a series studies covering Ecological Momentary Assessment, Intuitive Eating, Self-Determination, and so on.
