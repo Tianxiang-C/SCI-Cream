@@ -33,7 +33,7 @@ education:
   #    year: 2027 (anticipated)
     - course: MSc in Applied Psychology
       institution: The Chinese University of Hong Kong, Shenzhen
-      year: 2023-2025
+      year: 2023-2025 (anticipated)
     - course: BSc in Psychology
       institution: The University of Melbourne
       year: 2019-2022
@@ -42,7 +42,10 @@ education:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:lantingcheng@link.cuhk.edu.cn@link.cuhk.edu.cn'
  # - icon: twitter
  #   icon_pack: fab
  #   link: https://twitter.com/GeorgeCushen
