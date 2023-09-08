@@ -44,3 +44,5 @@ He, J., Murray, S., Compte, E. J., Song, J., & Nagata, J. M. (2021). The muscula
 3. Drive for Size (DFS): MDDI1, MDDI4, MDDI5, MDDI6, MDDI8.
 4. Appearance Intolerance (AI): MDDI2, MDDI3, MDDI7, MDDI9.
 5. Functional Impairment (FI): MDDI10, MDDI11, MDDI12, MDDI13.
+
+说明： 肌肉变形障碍量表可以免费使用。
