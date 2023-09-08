@@ -32,7 +32,7 @@ education:
   #    year: 2027 (anticipated)
      - course: BSc in Applied Psychology
        institution: The Chinese University of Hong Kong, Shenzhen
-       year: 2023 (anticipated)
+       year: 2023
   #  - course: BEcon in Economics
   #    institution: China University of Geosciences
   #    year: 20xx
@@ -69,7 +69,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Undergraduate Advisees
+  - Alumni
 ---
-LU Yining (卢怡宁) is an undergraduate advisee in applied psychology under Prof. HE Jinbo's supervision.
+LU Yining (卢怡宁) was an undergraduate advisee in applied psychology under Prof. HE Jinbo's supervision.
 
