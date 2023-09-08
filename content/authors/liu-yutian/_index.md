@@ -74,11 +74,9 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Undergraduate Advisees
+  - Alumni
 ---
-LIU Yutian (刘雨田) is an undergraduate advisee in applied psychology under Prof. HE Jinbo's supervision.
+LIU Yutian (刘雨田) was an undergraduate advisee in applied psychology under Prof. HE Jinbo's supervision.
 
 Her current programs:
-1.	Body image and eating behaviors in Chinese pregnant women.
-2.	Exploring the Links from Perceived Childhood Parenting and Childhood Parent-Child Relation to Chinese Adults’ Current Psychological Distress: Impacts of Family-of-origin?
-3.	The effect of LGBTQ pride song on emotion, non-suicidal self-injury, internalized homophobia of LGBTQ group.
+1.	The effect of LGBTQ pride song on emotion, non-suicidal self-injury, internalized homophobia of LGBTQ group.
