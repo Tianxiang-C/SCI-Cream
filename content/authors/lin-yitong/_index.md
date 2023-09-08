@@ -70,11 +70,11 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Undergraduate Advisees
+  - Alumni
 ---
-My name is LIN Yitong (林依桐), currently a junior student in The Chinese University of Hongkong, Shenzhen (CUHKSZ). I have 3-years’ experience of working as a research assistant in Eating Behaviors and Body Image laboratory (SCI-Cream Lab). 
+My name is LIN Yitong (林依桐), and I was a junior student at The Chinese University of Hongkong, Shenzhen (CUHKSZ). I have over 3 years of experience working as a research assistant in the Eating Behaviors and Body Image Laboratory (SCI-Cream Lab). 
 
 Programs:
 1.	Exploring the links from celebrity worship to body dissatisfaction and eating disturbances among Chinese young men and women.
-2.	Exploring the gratitude model of body appreciation among Chinese man and women.
+2.	Exploring the gratitude model of body appreciation among Chinese men and women.
 
