@@ -15,7 +15,7 @@ Sandoz, E. K., Wilson, K. G., Merwin, R. M., & Kellum, K. K. (2013). Assessment 
 
 He, J., Cai, Z., Chen, X., Lu, T., & Fan, X. (2021). Validation of the Chinese version of the Body Image Acceptance and Action Questionnaire and the mediating role of body image flexibility in the relationship between body dissatisfaction and psychological distress. *Behavior therapy*, *52*(3), 539-551. https://doi.org/10.1016/j.beth.2020.07.003
 
-**BI-AAQ 中文版-简版5条目**
+**BI-AAQ中文版-简版5条目**
 
 | **指导语：请按****1-7****来评价在下面每个陈述对您的符合程度，数字越大，代表频率越高。** | **从不** | **极少** | **很少** | **有时** | **经常** | **几乎总是** | **总是** |
 | ------------------------------------------------------------ | -------- | -------- | -------- | -------- | -------- | ------------ | -------- |
