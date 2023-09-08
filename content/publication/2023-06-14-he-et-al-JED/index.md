@@ -8,7 +8,7 @@ authors:
  
 
 author_notes:
-  - 'Equal contribution', 'Corresponding author'
+  - 'Equal contribution, Corresponding author'
   - 'Equal contribution'
   - 
   - 
