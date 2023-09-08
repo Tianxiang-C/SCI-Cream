@@ -16,7 +16,7 @@ author_notes:
   - 'Corresponding author'
  
 date: '2023-05-08T17:00:00Z'
-doi: ''
+doi: '10.1016/j.bodyim.2023.05.003'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2020-09-24T00:00:00Z'
@@ -32,14 +32,20 @@ publication: '*Body Image*'
 publication_short: ''
 
 abstract: "
-
+As an integrated framework informed by the Minority Stress Model and Objectification Theory, the Pantheoretical Model of Dehumanization was proposed to better understand mental health outcomes in transgender individuals. With a sample of 200 Chinese transgender adults, the present study tested the associations and potential mechanisms between internalized cisgenderism, self-objectification, body shame, and mental health correlates in the framework of the Pantheoretical Model of Dehumanization. Correlation and regression analyses were used. Results showed that internalized cisgenderism was positively related to body shame, psychological distress, disordered eating, non-suicidal self-injury (NSSI), suicidal ideation, and suicide attempts. Body shame showed significant indirect effects in the association between internalized cisgenderism and suicide attempts, and in the associations between internalized cisgenderism and psychological distress, disordered eating, and NSSI. In addition, body shame had significant indirect effects in the associations between body surveillance and disordered eating, NSSI, and suicide attempts, and in the association between body surveillance and psychological distress. As the first study testing the associations of core variables in the Pantheoretical Model of Dehumanization in a Chinese transgender sample, the findings largely supported the model in describing meaningful variance in Chinese transgender adults’ psychological distress, disordered eating, and self-injurious thoughts and behaviors.
 "
 
 # Summary. An optional shortened abstract.
 summary: 
 
 tags:
-  -
+  - internalized cisgenderism
+  - self-objectification
+  - body shame
+  - disordered eating
+  - self-injurious thoughts and behaviors
+  - transgender
+  - 
 featured: false
 
 # links:
