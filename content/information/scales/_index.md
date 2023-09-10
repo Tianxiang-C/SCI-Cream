@@ -1,5 +1,5 @@
 ---
-title: Scoring
+title: 量表计分
 date: '2022-06-09'
 type: book
 weight: 40
