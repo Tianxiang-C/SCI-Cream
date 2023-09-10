@@ -72,10 +72,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Undergraduate Advisees
+  - Alumni
 ---
-WANG Qingyang (汪晴漾) is an undergraduate advisee in marketing and communication under Prof. HE Jinbo's supervision.
-
-His current working project:
-1. Body image and eating behaviors in Chinese pregnant women.
+WANG Qingyang (汪晴漾) was an undergraduate advisee in marketing and communication under Prof. HE Jinbo's supervision.
 
