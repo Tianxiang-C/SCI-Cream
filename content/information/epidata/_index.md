@@ -1,5 +1,5 @@
 ---
-title: Epidata
+title: How to Use Epidata
 date: '2022-05-11'
 type: book
 weight: 20
