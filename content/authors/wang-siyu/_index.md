@@ -73,6 +73,6 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Undergraduate Advisees
+  - Alumni
 ---
-WANG Siyu (汪思渝) is undergraduate research assistant in applied psychology, under the supervision of Prof. HE Jinbo, at the Chinese University of Hong Kong, Shenzhen. She majors in applied psychology, education and development stream. Her previous working projects are the translation and validation of the Chinese version of ASI-R and the Chinese version of the gratitude model of body appreciation.
+WANG Siyu (汪思渝) was an undergraduate research assistant in applied psychology, under the supervision of Prof. HE Jinbo, at the Chinese University of Hong Kong, Shenzhen. She majored in applied psychology, education and development stream. Her previous working projects were the translation and validation of the Chinese version of ASI-R and the Chinese version of the gratitude model of body appreciation.
