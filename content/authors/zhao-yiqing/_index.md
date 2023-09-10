@@ -71,5 +71,5 @@ highlight_name: true
 user_groups:
   - Current Undergraduate Advisees
 ---
-ZHAO Yiqing (赵艺晴) is an undergraduate advisee in applied psychology under Prof. HE Jinbo's supervision.
+ZHAO Yiqing (赵艺晴) was an undergraduate advisee in applied psychology under Prof. HE Jinbo's supervision.
 
