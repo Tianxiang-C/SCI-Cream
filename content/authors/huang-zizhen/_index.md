@@ -72,12 +72,12 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Current Undergraduate Advisees
 ---
-HUANG Zizhen (黄子真) was an undergraduate advisee in applied psychology under Prof. HE Jinbo's supervision. She majored in industrial/ organizational psychology.
+HUANG Zizhen (黄子真) is an undergraduate advisee in applied psychology under Prof. HE Jinbo's supervision. She majors in industrial/ organizational psychology.
 
 Her current projects: 
 1. Exploring the links from celebrity worship to body dissatisfaction and eating disturbances among Chinese young men and women.
-2. Exploration of the gratitude model of body appreciation among Chinese man and women.
+2. Exploration of the gratitude model of body appreciation among Chinese men and women.
 
 
