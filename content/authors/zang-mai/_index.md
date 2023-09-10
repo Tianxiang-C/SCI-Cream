@@ -69,6 +69,6 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Undergraduate Advisees
+  - Alumni
 ---
-Hello, everyone. My name is ZANG, Mai (臧劢). I major in Applied Psychology (Stream: Education and Development). I am working on Q-methodology-based research on ideal Chinese male body image and ideal Chinese female body image. It’s interesting to explore different opinions from opposite genders and the reasons for these differences. I am very willing to dig into gender issues deeper and search for my interest in other projects!
+Hello, everyone. My name is ZANG, Mai (臧劢). I majored in Applied Psychology (Stream: Education and Development). I was working on Q-methodology-based research on ideal Chinese male body image and ideal Chinese female body image. It’s interesting to explore different opinions from opposite genders and the reasons for these differences. I am very willing to dig into gender issues deeper and search for my interest in other projects!
