@@ -45,7 +45,7 @@ We aimed to explore the potential associations between screen use while eating a
 
 ### Methods
 
-Analyses included 600 Chinese adults (50% women; *M*age = 30.67, *SD* = 8.08) recruited online. The use of four major screen devices was captured, including cell phones, tablets, computers, and TVs. Three types of eating behaviors were examined, namely intuitive eating, thinness-oriented disordered eating, and muscularity-oriented disordered eating. Pearson correlation and hierarchical regression analyses were conducted separately for men and women to examine the sex-specific associations between screen use while eating and intuitive eating, thinness-oriented disordered eating, and muscularity-oriented disordered eating.
+Analyses included 600 Chinese adults (50% women; *M*<sub>age</sub> = 30.67, *SD* = 8.08) recruited online. The use of four major screen devices was captured, including cell phones, tablets, computers, and TVs. Three types of eating behaviors were examined, namely intuitive eating, thinness-oriented disordered eating, and muscularity-oriented disordered eating. Pearson correlation and hierarchical regression analyses were conducted separately for men and women to examine the sex-specific associations between screen use while eating and intuitive eating, thinness-oriented disordered eating, and muscularity-oriented disordered eating.
 
 ### Results
 
