@@ -18,7 +18,7 @@ author_notes:
   -
 
 date: '2023-09-08T17:00:00Z'
-doi: ''
+doi: '10.1016/j.bodyim.2023.101627'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2020-09-24T00:00:00Z'
