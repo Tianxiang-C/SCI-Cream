@@ -19,6 +19,6 @@ design:
 
 <br>
 
-With all members from [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), our lab aims to clarify the complex relationships between eating behaviors, body image, and media in the Chinese context. Both undergraduate and graduate students who are interested in health psychology are strongly encouraged to join our team. Please contact Prof. HE Jinbo via [e-mail](mailto:hejinbo@cuhk.edu.cn) if you are interested!
+Welcome to the lab website! We aim to clarify the complex relationships between eating behaviors, body image, and media in the Chinese context. Both undergraduate and graduate students with a keen interest in health psychology are strongly encouraged to join our team. Don't hesitate to get in touch with Prof. HE Jinbo via [e-mail](mailto:hejinbo@cuhk.edu.cn) if interested!
 
-You could also follow our Wechat official account (SCI CREAM) to get first-hand information.
+You could also follow our WeChat official account (SCI CREAM) for first-hand information.
