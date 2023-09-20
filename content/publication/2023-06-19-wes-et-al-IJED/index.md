@@ -1,5 +1,5 @@
 ---
-title: 'The Chinese version of the Functionality Appreciation Scale: Psychometric properties and measurement invariance across gender and age'
+title: 'Examining an integrated sociocultural and objectification model of thinness- and muscularity-oriented disordered eating in Chinese older men and women'
 authors:
   - Wesley R. BARNHART
   - CUI Tianxiang
