@@ -1,5 +1,5 @@
 ---
-title: 'Translation and validation of a Chinese version of the body talk scale for women and men'
+title: 'Validation of the Muscularity Bias Internalization Scale in Chinese adult women'
 authors:
   - admin
   - CUI Shuqi
@@ -7,6 +7,7 @@ authors:
   - XU Yinuo
   - SHEN Sihe
   - LIN Jiaming
+  - Jason M. NAGATA
  
 
 author_notes:
@@ -16,7 +17,7 @@ author_notes:
   - 
   -
   -
-
+  -
 date: '2023-09-08T17:00:00Z'
 doi: '10.1016/j.bodyim.2023.101627'
 
