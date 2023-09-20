@@ -5,7 +5,6 @@ authors:
   - CUI Tianxiang
   - Wesley R. BARNHART
   - CHEN Gui
- 
 
 author_notes:
   - 'Equal contribution, Corresponding author'
