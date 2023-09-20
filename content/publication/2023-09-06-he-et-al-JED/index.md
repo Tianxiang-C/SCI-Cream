@@ -1,5 +1,5 @@
 ---
-title: 'The Chinese version of the Functionality Appreciation Scale: Psychometric properties and measurement invariance across gender and age'
+title: 'Translation and validation of a Chinese version of the body talk scale for women and men'
 authors:
   - admin
   - LU Yining
