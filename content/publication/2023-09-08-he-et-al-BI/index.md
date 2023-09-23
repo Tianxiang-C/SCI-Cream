@@ -35,12 +35,16 @@ publication: '*Body Image*'
 publication_short: ''
 
 abstract: "
+The Muscularity Bias Internalization Scale (MBIS) captures an individual’s endorsement of stereotypical beliefs about muscularity and engagement in self-stigmatizing evaluations about their muscularity. The MBIS has been validated in Chinese men and Lebanese men and women, showing strong internal consistency reliability and construct validity. Because muscularity-related body image concerns are present in Chinese women, there is a need for research to validate the MBIS in Chinese women. The present study examined the factor structure and psychometric properties of the MBIS in a sample of Chinese women. Exploratory factor analysis (*n* = 300) identified a two-factor structure which showed adequate model fit in confirmatory factor analysis (*n* = 300), with *χ*<sup>2</sup>(76) = 294.63 (*p* < .001), CFI = 0.98, TLI = 0.98, and SRMR = 0.05. Results also showed that the MBIS in women had adequate internal consistency, two-week test-retest reliability, and good construct validity. Findings suggest that the MBIS is a useful tool for assessing muscularity bias internalization, a potentially important risk factor for muscularity-oriented eating and body image disturbances.
 "
 # Summary. An optional shortened abstract.
 summary: 
 
 tags:
-  -
+  - internalized bias
+  - muscularity bias
+  - self-stigma
+  - muscularity bias internalization
 
 featured: false
 
