@@ -1,5 +1,5 @@
 ---
-title: body talk scale (BTS)/身体谈论量表
+title: Body Talk Scale (BTS)/身体谈论量表
 linktitle: BTS
 type: book
 date: '2019-05-05T00:00:00+01:00'
