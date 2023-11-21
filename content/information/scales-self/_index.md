@@ -17,6 +17,8 @@ Adult Picky Eating Questionnaire (**APEQ**)/成人挑食问卷
 
 Body Image Acceptance and Action Questionnaire (**BI-AAQ**)/身体意象接纳与行动问卷
 
+Body Talk Scale (**BTS**)/身体谈论量表
+
 Drive for Muscularity Scale (**DMS**)/肌肉倾向量表
 
 Short Form of the Eating Disorder Examination Questionnaire (**EDE-QS**)/进食障碍检查自评问卷简版
