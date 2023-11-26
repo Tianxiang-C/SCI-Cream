@@ -1,6 +1,6 @@
 ---
-title: Body Talk Scale (BTS)/身体谈论量表
-linktitle: BTS
+title: Female Muscularity Scale (FMS)/女性肌肉倾向量表
+linktitle: FMS
 type: book
 date: '2019-05-05T00:00:00+01:00'
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
