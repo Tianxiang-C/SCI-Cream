@@ -25,6 +25,8 @@ Short Form of the Eating Disorder Examination Questionnaire (**EDE-QS**)/进食�
 
 Functionality Appreciation Scale (**FAS**)/身体功能欣赏量表
 
+Female Muscularity Scale (**FMS**)/女性肌肉倾向量表
+
 Brief Version of the Loss of Control Over Eating Scale (**LOCES-B**)/简式失去控制进食量表
 
 Muscle Dysmorphic Disorder Inventory (**MDDI**)/肌肉变形障碍量表
