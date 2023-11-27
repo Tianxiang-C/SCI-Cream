@@ -49,4 +49,4 @@ He, J., Ji, F., Zhang, X., & Fan, X. (2019). Psychometric properties and gender 
 | 13. 当半夜醒来时，你对于自己进食的掌控                        | 0        | 1            | 2        | 3             | 4          |
 | 程度如何？                                                   | 完全不能 | 有一点       | 有些     | 非常          | 完全       |
 
-计分：统计指标是各项目得分，即各个项目单项得分的总和为NEQ的得分，大于等于25或30分可能有NES. 更详细的计分方式请参考[此处](https://en.wikipedia.org/wiki/Night_Eating_Questionnaire)。链接里面的第14题，是这里的第13题（第13题因为不参与计分而去掉）。
+计分：统计指标是各项目得分，即各个项目单项得分的总和为NEQ的得分，大于等于25或30分可能有NES. 其中1,4, 和13反向计分。更详细的计分方式请参考[此处](https://en.wikipedia.org/wiki/Night_Eating_Questionnaire)。链接里面的第14题，是这里的第13题（第13题因为不参与计分而去掉）。
