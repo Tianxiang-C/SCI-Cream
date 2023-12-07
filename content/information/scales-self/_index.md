@@ -19,6 +19,8 @@ Body Image Acceptance and Action Questionnaire (**BI-AAQ**)/身体意象接纳�
 
 Body Talk Scale (**BTS**)/身体谈论量表
 
+Clinical Impairment Assessment Questionnaire (**CIA** 3.0)/临床损害评估问卷
+
 Drive for Muscularity Scale (**DMS**)/肌肉倾向量表
 
 Short Form of the Eating Disorder Examination Questionnaire (**EDE-QS**)/进食障碍检查自评问卷简版
