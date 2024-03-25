@@ -10,8 +10,10 @@ role: Assistant Professor in Applied Psychology
 
 # Organizations/Affiliations
 organizations:
-  - name: The Chinese University of Hong Kong, Shenzhen
+  - name: The Chinese University of Hong Kong, Shenzhen (2019-)
     url: 'https://www.cuhk.edu.cn/en'
+  - name: Hunan University (2018-2019)
+    url: 'https://www.hnu.edu.cn'
     
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include the mental health of children and adolescents, obesity, eating behaviors, eating disorders, body image, and various advanced quantitative research methods (e.g., structural equation modeling, latent growth curve modeling, finite mixture modeling, meta-analysis).
