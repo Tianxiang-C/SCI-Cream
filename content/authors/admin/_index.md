@@ -19,15 +19,15 @@ bio: My research interests include the mental health of children and adolescents
 interests:
   - Health Psychology
   - Quantitative Research Methodology
-
-education:
+    
+affiliation:
   courses:
-    - course: PhD in Education
-      institution: University of Macau
-      year: 2015-2018
-    - course: MSc in Psychology
-      institution: Central South University
-      year: 2012-2015
+    - course: Assistant Professor in Applied Psychology
+      institution: The Chinese University of Hong Kong, Shenzhen
+      year: 2019-
+    - course: Associate Professor in Education
+      institution: Hunan University
+      year: 2018-2019
    # - course: BSc in Artificial Intelligence
    #  institution: Massachusetts Institute of Technology
    # year: 2008
