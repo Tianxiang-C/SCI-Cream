@@ -10,7 +10,7 @@ weight: 30
 superuser: false
 
 # Role/position
-role: Incoming PhD Student in Applied Psychology
+role: PhD Student in Applied Psychology
 
 
 # Organizations/Affiliations
