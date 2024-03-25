@@ -21,17 +21,7 @@ interests:
   - Health Psychology
   - Quantitative Research Methodology
     
-affiliation:
-  courses:
-    - course: Assistant Professor in Applied Psychology
-      institution: The Chinese University of Hong Kong, Shenzhen
-      year: 2019-
-    - course: Associate Professor in Education
-      institution: Hunan University
-      year: 2018-2019
-   # - course: BSc in Artificial Intelligence
-   #  institution: Massachusetts Institute of Technology
-   # year: 2008
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -41,9 +31,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:hejinbo@cuhk.edu.cn'
- # - icon: twitter
- #   icon_pack: fab
- #   link: https://twitter.com/GeorgeCushen
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/Jinbo_He_
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=zh-CN&user=16qDmvsAAAAJ&view_op=list_works
