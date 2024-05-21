@@ -34,7 +34,7 @@ education:
   #    year: 2027 (anticipated)
     - course: PhD in Applied Psychology
       institution: The Chinese University of Hong Kong, Shenzhen
-      year: 2023-
+      year: 2023-2027 (anticipated)
     - course: MSc in Applied Psychology
       institution: The Chinese University of Hong Kong, Shenzhen
       year: 2020-2022
