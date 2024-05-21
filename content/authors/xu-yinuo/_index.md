@@ -11,7 +11,7 @@ weight: 310
 superuser: false
 
 # Role/position
-role: Research Assistant in Applied Psychology
+role: Incoming PhD Student in Applied Psychology
 # Organizations/Affiliations
 organizations:
   - name: The Chinese University of Hong Kong, Shenzhen
@@ -29,9 +29,12 @@ education:
   #  - course: PhD in Quantitative Methods in Educational Psychology
   #    institution: Baylor University
   #    year: 2027 (anticipated)
+     - course: PhD in Applied Psychology
+       institution: The Chinese University of Hong Kong, Shenzhen
+       year: 2024-2028 (anticipated)
      - course: MSc in Applied Psychology
        institution: The Chinese University of Hong Kong, Shenzhen
-       year: 2021-2023 (anticipated)
+       year: 2021-2023
      - course: BSc in Applied Psychology
        institution: Qingdao University
        year: 2017-2021
@@ -68,7 +71,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research Assistants
+  - PhD Students
 ---
-XU Yinuo (许一诺) is a graduate student in applied psychology under Prof. HE Jinbo’s supervision.
+XU Yinuo (许一诺) is an incoming PhD student in applied psychology under Prof. HE Jinbo’s supervision.
 
