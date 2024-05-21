@@ -44,7 +44,7 @@ tags:
   - food addiction symptoms
   - longitudinal
   - psychological distress
-  - weight biasinternalization
+  - weight bias internalization
 
 featured: false
 
