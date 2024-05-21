@@ -90,4 +90,4 @@ highlight_name: true
 user_groups:
   - PhD Students
 ---
-I’m XIAO Yueyang (肖越扬), an incoming PhD student in the Applied Psychology program at the Chinese University of Hong Kong (Shenzhen), under Prof. HE Jinbo’s supervision.
+I’m XIAO Yueyang (肖越扬), a PhD student in the Applied Psychology program at the Chinese University of Hong Kong (Shenzhen), under Prof. HE Jinbo’s supervision.
