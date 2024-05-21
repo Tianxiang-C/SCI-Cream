@@ -11,7 +11,7 @@ weight: 43
 superuser: false
 
 # Role/position
-role: Current Undergraduate Advisee in Applied Psychology
+role: 
 
 # Organizations/Affiliations
 organizations:
@@ -31,7 +31,7 @@ education:
   #    year: 2027 (anticipated)
      - course: BSc in Applied Psychology
        institution: The Chinese University of Hong Kong, Shenzhen
-       year: 2020-2024 (anticipated)
+       year: 2020-2024
   #  - course: BEcon in Economics
   #    institution: China University of Geosciences
   #    year: 20xx
@@ -68,6 +68,6 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Undergraduate Advisees
+  - Alumni
 ---
 邓舒一。一个女性，一个学心理的，一个喜欢美术的人。
