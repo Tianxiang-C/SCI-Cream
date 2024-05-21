@@ -19,7 +19,7 @@ organizations:
     url: 'https://www.cuhk.edu.cn/en'
     
 # Short bio (displayed in user profile at end of posts)
-bio: CUI Shuqi (崔舒淇) is a Ph.D. student in applied psychology under Prof. HE Jinbo’s supervision.
+bio: CUI Shuqi (崔舒淇) is a PhD student in applied psychology under Prof. HE Jinbo’s supervision.
 
 interests:
   - Body Image
@@ -86,7 +86,7 @@ highlight_name: true
 user_groups:
   - PhD Students
 ---
-Hi, I’m CUI Shuqi (崔舒淇), a Ph.D. student in the Applied Psychology program at the Chinese University of Hong Kong (Shenzhen), supervised by Prof. [He Jinbo](https://sci-cream.netlify.app/author/he-jinbo/). 
+Hi, I’m CUI Shuqi (崔舒淇), a PhD student in the Applied Psychology program at the Chinese University of Hong Kong (Shenzhen), supervised by Prof. [He Jinbo](https://sci-cream.netlify.app/author/he-jinbo/). 
 
 As the lab manager, I am mainly responsible for:
 * SCI CREAM WeChat Official Account Management (e.g., writing, reviewing, posting)
