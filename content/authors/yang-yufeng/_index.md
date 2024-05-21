@@ -11,7 +11,7 @@ weight: 335
 superuser: false
 
 # Role/position
-role: Current Undergraduate Advisee in Applied Psychology
+role: 
 
 # Organizations/Affiliations
 organizations:
@@ -35,7 +35,7 @@ education:
   #    year: 2027 (anticipated)
      - course: BSc in Applied Psychology
        institution: The Chinese University of Hong Kong, Shenzhen
-       year: 2020-2024 (anticipated)
+       year: 2020-2024
   #  - course: BEcon in Economics
   #    institution: China University of Geosciences
   #    year: 20xx
@@ -69,8 +69,6 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Undergraduate Advisees
+  - Alumni
 ---
-YANG Yufeng (阳宇枫) is an undergraduate student majoring in applied psychology, under the industrial/organizational stream.
 
-She is now working on a project about eating disorders and body image in patients with diabetes under Prof. HE Jinbo’s supervision.
