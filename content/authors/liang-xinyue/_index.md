@@ -11,7 +11,7 @@ weight: 135
 superuser: false
 
 # Role/position
-role: Current Undergraduate Advisee in Applied Psychology
+role: 
 
 # Organizations/Affiliations
 organizations:
@@ -69,8 +69,6 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Undergraduate Advisees
+  - Alumni
 ---
-LIANG Xinyue (梁歆悦) is an undergraduate student majoring in applied psychology (education and development stream). 
 
-She is currently working on a project about eating disorders in patients with diabetes and body image, under Prof. HE Jinbo’s supervision.
