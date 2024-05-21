@@ -41,7 +41,12 @@ abstract: "
 summary: 
 
 tags:
-  - 
+  - body dissatisfaction
+  - self-injurious thoughts and behaviours
+  - SITB
+  - non-suicidal self-injury
+  - meta-analysis
+  - systematic review
 
 featured: false
 
