@@ -39,7 +39,12 @@ abstract: "
 summary: 
 
 tags:
-  - 
+  - adolescents
+  - China
+  - food addiction symptoms
+  - longitudinal
+  - psychological distress
+  - weight biasinternalization
 
 featured: false
 
