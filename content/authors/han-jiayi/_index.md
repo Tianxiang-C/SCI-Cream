@@ -73,6 +73,6 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Graduate Advisees
+  - Alumni
 ---
 HAN Jiayi (韩嘉仪) is a graduate student in applied psychology under Prof. HE Jinbo’s supervision.
