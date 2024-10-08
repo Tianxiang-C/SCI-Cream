@@ -39,9 +39,6 @@ education:
     - course: MSc in Applied Psychology
       institution: The Chinese University of Hong Kong, Shenzhen
       year: 2021-2023
-    - course: BSc Psychology
-      institution: The Australian National University
-      year: 2018-2020
     - course: BSc in Psychology
       institution: Qingdao University
       year: 2017-2021
