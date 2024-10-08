@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/cac4078f-20de-40ad-b73a-79ac922c1dbd)---
 
 # Display name
 title: YE Zhaoting
@@ -70,6 +70,6 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Undergraduate Advisees
+  - Alumni
 ---
 YE Zhaoting (叶钊廷) is an undergraduate advisee in applied psychology under Prof. HE Jinbo’s supervision.
