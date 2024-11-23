@@ -11,6 +11,8 @@ weight: 2
 
 He, J., Tang, C., Song, J., Cui, T., Barnhart, W. R., Cui, S., Ren, Y., & Nagata, J. M. (2022). The Muscularity Bias Internalization Scale: Development and initial validation in Chinese adult men. *Body Image*, *43*, 326-336. https://doi.org/10.1016/j.bodyim.2022.09.013
 
+He, J., Cui, S., Barnhart, W. R., Xu, Y., Shen, S., Lin, J., & Nagata, J. M. (2023). Validation of the Muscularity Bias Internalization Scale in Chinese women. *Body Image*, *47*, 101627. https://doi.org/10.1016/j.bodyim.2023.101627
+
 **肌肉偏见内化量表**
 
 指导语：
