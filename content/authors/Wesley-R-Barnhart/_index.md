@@ -62,4 +62,7 @@ user_groups:
   - Collaborators
 ---
 
-Please check Dr. Barnhart's [lab website](https://www.wesleybarnhart.com/) for details.
+The contents below are from Dr. Barnhart's [lab website](https://www.wesleybarnhart.com/).
+
+Dr. Barnhart is an Incoming Assistant Professor in the Department of Psychology at Suffolk University. Prior to coming to Suffolk, they were an Eating Disorders track Doctoral Psychology Intern at the UNC Center of Excellence for Eating Disorders. Dr. Barnhart earned a B.A. in psychology and B.S. in neuroscience from Ohio State University and completed his graduate training in clinical psychology at Bowling Green State University. They are dedicated to advancing our understanding of and treatments for eating disorders in minoritized and underrepresented populations. He uses scientifically rigorous, transparent, and open science approaches to clarify the complex links between stigma, systems of oppression, and eating disorders. Dr. Barnhart unites their research program with their core values (e.g., multiculturalism; diversity, equity, inclusion, and justice) and identities/lived experiences as a Queer, gender-diverse, first-generation scholar.
+
