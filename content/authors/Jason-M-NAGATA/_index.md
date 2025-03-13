@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Wesley R. BARNHART
+title: Jason M. NAGATA
 
 # Username (this should match the folder name)
 authors:
