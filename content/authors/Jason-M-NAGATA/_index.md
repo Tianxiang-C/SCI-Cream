@@ -11,10 +11,13 @@ weight: 40
 superuser: false
 
 # Role/position
-role: 
-- name: Associate Professor of Pediatrics
-  url: 'https://nagatalab.ucsf.edu/'
+role: Associate Professor of Pediatrics
 
+social:
+ 
+  - icon: house
+    icon_pack: fas
+    link: https://nagatalab.ucsf.edu/
 # Organizations/Affiliations
 organizations:
   - name: Nagata Lab, University of California, San Francisco
