@@ -15,8 +15,8 @@ role: Incoming Assistant Professor in the Department of Psychology
 
 # Organizations/Affiliations
 organizations:
-  - name: Suffolk University
-    url: 'https://www.suffolk.edu/'
+  - name: EMBRACED Lab, Suffolk University
+    url: 'https://www.wesleybarnhart.com/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -47,5 +47,5 @@ user_groups:
   - Collaborators
 ---
 
-Please check Dr. Barnhart's [lab website](https://www.wesleybarnhart.com/) for details.
+
 
