@@ -11,7 +11,7 @@ weight: 40
 superuser: false
 
 # Role/position
-role: Associate Professor of Pediatrics at University of California, San Francisco; Principal Investigator of Nagata Lab
+role: Associate Professor of Pediatrics at University of California, San Francisco
 
 social:
  
