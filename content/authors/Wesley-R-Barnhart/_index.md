@@ -11,7 +11,7 @@ weight: 40
 superuser: false
 
 # Role/position
-role: Incoming Assistant Professor in the Department of Psychology
+role: Incoming Assistant Professor in the Department of Psychology at Suffolk University; Director of EMBRACED Lab
 
 # Organizations/Affiliations
 organizations:
