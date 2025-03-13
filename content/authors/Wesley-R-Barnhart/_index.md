@@ -19,7 +19,7 @@ organizations:
     url: 'https://www.suffolk.edu/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Please check Dr. Barnhart's [lab website](https://www.wesleybarnhart.com/) for details.
+bio: 
 
 
 
@@ -62,3 +62,4 @@ user_groups:
   - Collaborators
 ---
 
+Please check Dr. Barnhart's [lab website](https://www.wesleybarnhart.com/) for details.
