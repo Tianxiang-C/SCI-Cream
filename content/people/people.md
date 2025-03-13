@@ -28,7 +28,7 @@ content:
     
 design:
   show_interests: false
-  show_role: true
+  show_role: false
   show_social: true
-  show_organizations: true
+  show_organizations: false
 ---
