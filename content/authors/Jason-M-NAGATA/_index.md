@@ -15,8 +15,8 @@ role: Associate Professor of Pediatrics
 
 # Organizations/Affiliations
 organizations:
-  - name: University of California, San Francisco
-    url: 'https://www.ucsf.edu/'
+  - name: Nagata Lab, University of California, San Francisco
+    url: 'https://nagatalab.ucsf.edu/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -46,6 +46,4 @@ highlight_name: true
 user_groups:
   - Collaborators
 ---
-
-Please check Dr. Nagata's [lab website](https://nagatalab.ucsf.edu/) for details.
 
