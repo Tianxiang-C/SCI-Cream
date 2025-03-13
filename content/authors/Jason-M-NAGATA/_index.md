@@ -60,6 +60,5 @@ user_groups:
   - Collaborators
 ---
 
-The contents below are from Dr. Nagata's [lab website](https://nagatalab.ucsf.edu/).
+Please check Dr. Nagata's [lab website](https://nagatalab.ucsf.edu/) for details.
 
-Dr. Nagata is an Associate Professor of Pediatrics in the Division of Adolescent and Young Adult Medicine at the University of California San Francisco and affiliated faculty with the Institute for Global Health Sciences. He researches health consequences of adolescent and young adult behaviors and is an expert in body image and eating disorders in boys and men. He has published over 300 articles in academic journals including The Lancet, the Journal of the American Medical Association, and Pediatrics. He is Co-Founder of the International Association for Adolescent Health Young Professionals Network. He serves as Senior Editor of the Journal of Eating Disorders, on the International Advisory Board of The Lancet Child & Adolescent Health, and the Editorial Board of the Journal of Adolescent Health. He is the recipient of the American Academy of Pediatrics Emerging Leader in Adolescent Health Award, the International Association for Adolescent Health Young Professionals Prize, and the Western Society for Pediatric Research Young Investigator Award. He completed a BA in Health and Societies from the University of Pennsylvania, MSc in Medical Anthropology from the University of Oxford, MD and Adolescent Medicine Fellowship from UCSF, and Pediatrics Residency at Stanford University.  
