@@ -11,7 +11,9 @@ weight: 40
 superuser: false
 
 # Role/position
-role: Associate Professor of Pediatrics
+role: 
+- name: Associate Professor of Pediatrics
+  url: 'https://nagatalab.ucsf.edu/'
 
 # Organizations/Affiliations
 organizations:
